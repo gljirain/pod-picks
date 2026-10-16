@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianlun's Picks</title>
+    <link>https://gljirain.github.io/pod-picks/</link>
+    <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
+    <lastBuildDate>Fri, 16 Oct 2026 21:00:00 +0000</lastBuildDate>
+    <itunes:author>Podcast Curator</itunes:author>
+    <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
+    <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Cheeky Pint] Bret Taylor of Sierra on AI agents, outcome-based pricing, and the OpenAI board</title>
+      <description>WHY YOU: Directly answers how Sierra charges: outcome vs seat pricing, from the founder, with a numbers-minded host.
+
+Bret Taylor, co-founder of Sierra and Chair of the OpenAI board, joins John for a pint to discuss the rapid shift toward an agentic future. In this episode, Bret explains why outcome-based pricing is the future of software business models, and why he believes the atomic unit of AI productivity is a process, not a person. They cover why big companies struggle to adopt AI because they are “shipping their org charts.” Bret also discusses a new type of hyper-generalist, reflects on his experience with the OpenAI and Twitter boards, and explains why he believes we might see the end of the smartphone era. Timestamps (00:00:26) Coding (00:16:23) Sierra (00:27:14) Agentic UX (00:38:47) Building support agents (00:45:43) Co-developing with the models (00:50:08) SaaSpocalypse (01:00:50) Stripe Sessions (01:01:33) Outcome-based pricing (01:09:14) Is Sierra short AGI? (01:13:50) AI productivity (01:</description>
+      <pubDate>Fri, 16 Oct 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b951ff6e-9570-4d21-a85f-7af0beb4e80d</guid>
+      <link>https://share.transistor.fm/s/5240a856</link>
+      <enclosure url="https://media.transistor.fm/5240a856/bf5de915.mp3" length="97377847" type="audio/mpeg"/>
+      <itunes:duration>6083</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Unsupervised Learning with Jacob Effron] Ep 67: Max Junestrand (CEO, Legora) on Differentiating and Pricing AI Apps &amp; How the Legal Industry Will Evolve</title>
+      <description>WHY YOU: Pricing is the explicit topic, and it is the Legora side of Harvey-vs-Legora.
+
+Jacob and Logan sit down with Max Junestrand, founder and CEO of Legora - a rapidly growing legal AI platform (and Redpoint portfolio company). After announcing their Series B last week, Max joined the show to discuss why law is uniquely suited for AI, what it takes to scale an enterprise-ready product across global markets, and a few crazy moments from Legora’s journey so far. They dig into product strategy, lessons on evolving alongside foundational models, and how AI is reshaping the future of law firms. Whether you're building in AI or just curious how it’s being applied in complex industries, this one’s packed with practical insights. (0:00) Intro (1:30) The Evolution of AI in Law (2:43) AI's Impact on Legal Processes (8:28) Advantages Over Other Players in the AI Law Space (12:19) Challenges in Educating Users (17:28) The Hardest Part of Building Legora (18:46) Pricing Models and C</description>
+      <pubDate>Fri, 16 Oct 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a1ea83cb-4385-4e79-835b-7f81be5b77d6</guid>
+      <link>https://unsupervised-learning.simplecast.com/episodes/ep-67-max-junestrand-ceo-legora-on-replacing-billable-hours-pricing-ai-apps-evolving-legal-teams-k94KadSo</link>
+      <enclosure url="https://cdn.simplecast.com/audio/2c08ad29-5b79-42c0-a40a-6c1af4327f2f/episodes/fcb747e3-fedb-4203-90f5-3ee930fc17eb/audio/d180430a-c8ae-4671-abbd-78268764c688/default_tc.mp3?aid=rss_feed&amp;feed=dOSE_bdP" length="42391553" type="audio/mpeg"/>
+      <itunes:duration>2649</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[The a16z Show] Healthcare 2026: AI Doctors, GLP-1s, and Insurance Defection</title>
+      <description>WHY YOU: Broadest of the batch: a16z's read on where healthcare money moves in 2026. No RCM/EHR episode cleared the bar yet, so this holds the healthcare slot.
+
+Out-of-Pocket is a healthcare education company founded by Nikhil Krishnan that helps people understand how healthcare works and how to navigate it in practice. In this episode, a16z investing partner Jay Rughani and Nikhil discuss why health insurance is losing its role as the default way people access care. They explain how rising costs are pushing more consumers to pay out of pocket for diagnostics, preventive care, and navigation. The conversation also looks at what this shift means for startups, AI-powered tools, regulation, and access as healthcare continues to move beyond insurance. Resources: Follow Jay Rughani on X: https://twitter.com/JayRughani Follow Nikhil Krishnan on X: https://twitter.com/nikillinit Read Out of Pocket’s 2026 Predictions: https://www.outofpocket.health/p/out-of-pockets-2026-predictions Stay Updated: Find a16z on X Find a16z on LinkedIn Listen to the a16z Sh</description>
+      <pubDate>Fri, 16 Oct 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">46533040-31a3-4344-a0b7-788182ae6a60</guid>
+      <link>https://a16z.simplecast.com/episodes/how-consumer-behavior-is-rewiring-us-healthcare-5Ex9w8F7</link>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b9597c4d-7ff6-4f3e-ba0c-47acfa6044a9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=b9597c4d-7ff6-4f3e-ba0c-47acfa6044a9&amp;feed=JGE3yC0V" length="90272596" type="audio/mpeg"/>
+      <itunes:duration>5642</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[十字路口Crossing] “我们首先要贵！” ——定价200美金/月才能验证AI市场刚需｜对谈郭振宇：Sandwich Lab创始人/CEO [中文] [wildcard]</title>
+      <description>WHY YOU: A founder argues for pricing an AI agent at $200/month to test whether demand is real, the inverse of the usual land-cheap playbook.
+
+本周十字路口的嘉宾是郭振宇，Sandwich Lab 创始人兼 CEO。他们的产品 Lexi 是一款专为中小企业设计的 AI Agent，用于在 Meta 平台进行广告投放。 在访谈中，郭振宇详细介绍了 Lexi 如何通过"影子模式"帮助客户投放 Meta 广告，并解释了他们采用 200 美元/月定价策略来验证刚需的思路。他还分享了创业过程中的「多巴胺时刻」和「顿悟时刻」。 郭振宇强调， Lexi 仅是 Sandwich Lab 宏大蓝图中的一小部分。 他分享了公司充满野心的愿景：用 AI 帮助企业「增长营收」。Meta 广告投放只是实现这一目标的路径之一，他们计划陆续推出 Email Marketing Agent，以及服务于财务、税务、法务、供应链和人力资源的各种 Agent。Sandwich Lab 的核心理念是：只要能帮企业增长营收的 Agent，都在他们的发展规划之中。 —— 嘉宾介绍 ：郭振宇，Sandwich Lab 创始人兼 CEO，本科毕业于浙江大学，博士毕业于不列颠哥伦比亚大学（UBC）。在博士攻读期间，他参与创业并帮助公司成功成为特斯拉的一级供应商。担任Postmates AI总监时，振宇领导了自动驾驶送餐机器人的研发项目。后来加入阿里达摩院主导小蛮驴自动驾驶项目。 —— Sandwich Lab 介绍 ：用 AI 为全球中小企业提供自动化营收增长解决方案，公司已获得锦秋、汇量科技、五源、戈壁阿里巴巴创业者基金超过千万美金的投资。 🟢 Part 1 快问快答 01:27 快问快答：年龄、毕业院校、MBTI、星座、职业经历 01:49 公司/产品介绍、融资情况、收入利润、团队规模 . 🟢 Part 2 聊聊 Lexi 03:42 Lexi 取得了哪些成绩？ 04:17 Lexi 的目标用户是谁？ ——让人意想不到的选择 15:20 用 Lexi 去帮 Lexi 自己投放获客，效果如果？ 20:45 Lexi 如何让用户信任自己？ 27:26 全世界的生意，都要去社交媒体做广告 37:26 Lexi 的投放结果，超过了人类吗？ 42:06 「我们首先要</description>
+      <pubDate>Fri, 16 Oct 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">68736b6d60f8f77d403e53df</guid>
+      <link>https://www.xiaoyuzhoufm.com/episode/68736b6d60f8f77d403e53df?utm_source=rss</link>
+      <enclosure url="https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/68736b6d60f8f77d403e53df/media.xyzcdn.net/60502e253c92d4f62c2a9577/lseIYrqcGO0iwYk4mIhY4iJ_GpEw.m4a" length="81675936" type="audio/mp4"/>
+      <itunes:duration>5050</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
