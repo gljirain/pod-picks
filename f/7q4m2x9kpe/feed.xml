@@ -6,13 +6,61 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:52:47 +0000</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Understanding Healthcare with Zack Kanter] Agentic AI for the revenue cycle with Ayo Omojola at Substrate</title>
+      <description>WHY YOU: The clearest walk-through I found of how an AI-native RCM company actually operates: why Substrate dropped browser automation for agents, why payers still mail critical info, and big payers vs. the long tail. Host built Stedi, so he pushes on mechanics.
+
+Ayo Omojola is the co-founder and CEO of Substrate, an AI agent platform for revenue cycle automation. Before starting Substrate, Ayo saw the friction firsthand working in primary and urgent care. In this episode, Ayo explains why Substrate moved from browser automation to agentic AI, why there's so much friction in the revenue cycle, and how healthcare billing could be 5x faster and cheaper with current tools.</description>
+      <pubDate>Sat, 17 Oct 2026 21:52:47 +0000</pubDate>
+      <guid isPermaLink="false">228e8c0d-963e-419d-8d3a-991d3d21bd0a</guid>
+      <link>https://podcast.stedi.com/8</link>
+      <enclosure url="https://media.transistor.fm/16ddc532/14ef7fe9.mp3" length="50540252" type="audio/mpeg"/>
+      <itunes:duration>3156</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Understanding Healthcare with Zack Kanter] Revenue recovery with Eliana Berger at Joyful Health</title>
+      <description>WHY YOU: AI recovery of denied/unpaid claims without changing the practice's systems — recovery rates and cost-to-collect are the unit economics behind the contingency-fee AI RCM model.
+
+Eliana Berger is co-founder and CEO of Joyful Health. Eliana and Zack discuss revenue recovery – how healthcare practices lose revenue through unpaid insurance claims. Eliana explains denials management, why fixing denials requires more than just filing appeals, and how Joyful Health's AI platform recovers that revenue without requiring practices to change their existing systems.</description>
+      <pubDate>Sat, 17 Oct 2026 21:52:47 +0000</pubDate>
+      <guid isPermaLink="false">a7040f37-6b5f-4e81-808c-085ae0c4edc4</guid>
+      <link>https://podcast.stedi.com/7</link>
+      <enclosure url="https://media.transistor.fm/5e9d079f/cac7dc65.mp3" length="43636774" type="audio/mpeg"/>
+      <itunes:duration>2725</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Vital Signs with Jacob Effron and Nikhil Krishnan] Ep 66: Pete Shalek On The Future of Front Office Automation</title>
+      <description>WHY YOU: AI front office for independent practices sold as 'we do the work' rather than software — pricing, 3–4 week implementations, 5–7% conversion lift. Directly relevant to how you sell to and onboard providers.
+
+Pete Shalek, founder of Valerie Health, is a multi-time healthcare entrepreneur who previously founded Joyable and served as Chief Product Officer at AbleTo and Stellar Health. Pete discusses why AI in healthcare needs to move beyond selling software tools to actually doing the work for providers.</description>
+      <pubDate>Sat, 17 Oct 2026 21:52:47 +0000</pubDate>
+      <guid isPermaLink="false">6cf3e548-7936-4c9c-88d1-d73752564997</guid>
+      <link>https://vital-signs-e526bbac.simplecast.com/episodes/ep-66-pete-shalek-on-the-future-of-front-office-automation-dE_reT66</link>
+      <enclosure url="https://cdn.simplecast.com/audio/52447fe7-b12b-4a5c-9dea-95b1eae7c423/episodes/34b56ac6-f272-43d6-a333-541420083e22/audio/10a4ff5f-e969-406f-8ea2-370cf14755fc/default_tc.mp3?aid=rss_feed&amp;feed=CC7kJR0I" length="33915392" type="audio/mpeg"/>
+      <itunes:duration>2119</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Get Paid with Manny Medina] Same AI, Wildly Different Price: What Separates $50 From $5M with Jaya Gupta [wildcard]</title>
+      <description>WHY YOU: Post-mortem of the outcome-based pricing thesis: what held up, where token costs and trust decide price. Medina builds billing for agents, so it stays concrete.
+
+Episode 57: host Manny Medina sits down with Jaya Gupta from Foundation Capital to discuss AI startups, context graphs, token maxing, and outcome-based pricing, exploring what's really working six months after her viral paper.</description>
+      <pubDate>Sat, 17 Oct 2026 21:52:47 +0000</pubDate>
+      <guid isPermaLink="false">80q3y250</guid>
+      <link>https://podcasts.fame.so/e/vn5j0278-jaya-gupta</link>
+      <enclosure url="https://media.fame.so/w0vlql1w.mp3" length="90213212" type="audio/mpeg"/>
+      <itunes:duration>2255</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Cheeky Pint] Bret Taylor of Sierra on AI agents, outcome-based pricing, and the OpenAI board</title>
       <description>WHY YOU: Directly answers how Sierra charges: outcome vs seat pricing, from the founder, with a numbers-minded host.
