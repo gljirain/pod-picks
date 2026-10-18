@@ -6,13 +6,61 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 21:52:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 01:03:09 +0000</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Understanding Healthcare with Zack Kanter] Dental billing with Mike Huffaker at Planet DDS</title>
+      <description>WHY YOU: Dental is a preview of where practice-side RCM is heading: groups consolidating onto one stack, dental providers submitting medical claims, eligibility data so thin that practices still phone payers for estimates — and a CRO explaining why every health-tech company ends up in RCM (33:54). Kanter pushes on mechanics.
+
+Mike Huffaker is Chief Revenue Officer at Planet DDS, a cloud-based, AI-enabled practice management and imaging platform built for large dental groups, and host of The Dental Economist Show. He and Zack cover why dental groups are moving to a single tech stack, why more dental providers are submitting medical claims, why incomplete payer eligibility data still leaves practices calling insurers for cost estimates, and why dental claims still go out in end-of-day batches. Chapters: 00:00 Introduction; 00:24 What Planet DDS does; 01:37 What dental groups are switching away from; 04:32 What distinguishes software built for multi-location groups; 06:40 What happens when a DSO acquires a practice; 11:44 How DSO consolidation changed dental software; 18:58 What dental groups integrate with; 22:39 Why dental providers need to submit medical claims; 26:50 How medical claims differ from dental claims; 33:54 Why nearly every health tech company ends up in RCM; 39:01 Why estimating dental costs across payers is so hard; 45:00 Whether payers benefit from billing friction; 50:21 What Mike would change about dental RCM.</description>
+      <pubDate>Sun, 18 Oct 2026 01:03:09 +0000</pubDate>
+      <guid isPermaLink="false">382f8452-4ae7-48aa-b881-4e1c43579e0d</guid>
+      <link>https://podcast.stedi.com/10</link>
+      <enclosure url="https://media.transistor.fm/804d502c/103b86fa.mp3" length="50796338" type="audio/mpeg"/>
+      <itunes:duration>3172</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Invest Like the Best] Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492]</title>
+      <description>WHY YOU: A vertical-AI CEO on moving from seat to outcome pricing (23:43) and how firms actually buy AI (22:00), with the enterprise-sales motion spelled out (32:55) — the finance analogue of Harvey/Legora, from the operator rather than an investor.
+
+Gabe Stengel is co-founder and CEO of Rogo, an AI platform for finance. He argues the best investors will spend the next several years reorganizing their firms around AI. The conversation covers how Rogo evolved alongside frontier models, why the last mile and the software harness around the models matter, what happens when every portfolio manager can run thousands of agents on a problem, how AI could change how capital is raised, how assets are priced and how deals get done, the move from seat-based to outcome-based pricing, which investing skills gain value as AI improves, Rogo's internal company brain (Shrek), the 40 investor rejections before the Series A, the aggressiveness applied AI requires, and how to become a magnet for talent and capital. Timestamps: 00:00:00 Welcome; 00:01:24 The model eras of Rogo; 00:04:15 The last mile; 00:06:14 Who uses Rogo today; 00:10:55 Which investor skills matter; 00:12:23 The data stack; 00:14:33 Competing with frontier labs; 00:16:57 The harness; 00:18:05 Who wins in vertical AI; 00:22:00 How firms buy AI; 00:23:43 From seats to outcome pricing; 00:31:19 Auditability vs. accuracy; 00:32:55 Enterprise sales; 00:34:48 Shrek; 00:35:49 The pitch to talent; 00:42:18 The Series A rejections; 00:47:41 Finance's innovator's dilemma; 00:50:22 Questions firms should ask; 00:53:09 What remains uncertain; 00:56:46 Becoming a talent black hole; 00:57:56 The kindest thing.</description>
+      <pubDate>Sun, 18 Oct 2026 01:03:09 +0000</pubDate>
+      <guid isPermaLink="false">ea3567a0-b511-11f1-b31a-f738f618d5f9</guid>
+      <link>https://colossus.com/episode/building-investing-superintelligence/</link>
+      <enclosure url="https://traffic.megaphone.fm/CLS7922860814.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3864</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[The a16z Show] Why AI Could Finally Fix Healthcare Access | Zocdoc CEO Oliver Kharraz</title>
+      <description>WHY YOU: An incumbent front door turning its scheduling layer into infrastructure for AI agents, insurers and other platforms (the Gemini deal). If agents become the patient's entry point, the front-office stack you sell to practices changes shape — worth hearing how Zocdoc plans to be paid for that.
+
+Why is booking a doctor's appointment still so hard, and can AI finally fix it? Zocdoc CEO Oliver Kharraz argues the problem isn't finding doctors; it's connecting patients to accurate availability and making appointments bookable from wherever a patient starts. a16z General Partner Julie Yoo and Oliver discuss how Zocdoc spent nearly two decades building the infrastructure for online scheduling and is now opening that technology to AI agents, insurers and other platforms. They cover Zocdoc's partnership with Gemini, why patients shouldn't be locked into a single healthcare platform, how surfacing last-minute openings can cut waits from weeks to days, what changes when AI becomes a new front door to healthcare, and why Zocdoc's future extends well beyond its own app. Resources: Oliver Kharraz on LinkedIn; Julie Yoo on X. a16z disclosures apply.</description>
+      <pubDate>Sun, 18 Oct 2026 01:03:09 +0000</pubDate>
+      <guid isPermaLink="false">a60e8933-ff87-4703-bfe7-b594d39bf445</guid>
+      <link>https://a16z.simplecast.com/episodes/why-ai-could-finally-fix-healthcare-access-zocdoc-ceo-oliver-kharraz-9n_zG60B</link>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/60df6c4d-a29a-4c66-994e-bbd659a2e577/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=60df6c4d-a29a-4c66-994e-bbd659a2e577&amp;feed=JGE3yC0V" length="33536741" type="audio/mpeg"/>
+      <itunes:duration>00:34:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[20VC] $1BN ARR in 18 Months; The Untold Story of Higgsfield | Spending $4M Per Month on Models | Why Moats in AI are BS | Scaling a Content Team to 150 People with Alex Mashrabov [wildcard]</title>
+      <description>WHY YOU: The most concrete AI-app unit-economics numbers this month: a $1B run-rate in 18 months set against ~$4M a month in model spend (28:00), and a founder arguing moats and 'wrapper' worries are beside the point (36:00). Consumer video, not services — but the margin math transfers.
+
+Alex Mashrabov is the founder and CEO of Higgsfield, described as the third-fastest company to reach $1BN in ARR behind OpenAI and Anthropic, with reports of a new round at roughly $8BN. He previously sold his company to Snap for $166M and was a top-three competitive programmer as a child. Topics: 00:00 From programming prodigy to the $166M sale to Snap; 09:00 Burning through $10M and the pivot that saved Higgsfield; 12:00 Is the $1BN run-rate in 18 months real?; 16:00 Will OpenAI and Google wipe out $20 consumer AI subscriptions?; 21:00 Are AI labs gaming benchmarks?; 28:00 Spending roughly $4M a month on models — smart or reckless?; 36:00 Are AI moats overstated, and the 'wrapper' debate; 43:00 Time with his son and what ambition costs; 54:00 Quickfire: is Snap in trouble, can HubSpot survive AI; 01:02:00 The plan to reach $10BN in revenue within 12 months.</description>
+      <pubDate>Sun, 18 Oct 2026 01:03:09 +0000</pubDate>
+      <guid isPermaLink="false">83f96834-8b3f-469a-9ff3-998b6ef130f1</guid>
+      <link>https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov</link>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Alex_Mashrabov__Higgsfield.mp3?dest-id=240976" length="66780366" type="audio/mpeg"/>
+      <itunes:duration>01:09:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Understanding Healthcare with Zack Kanter] Agentic AI for the revenue cycle with Ayo Omojola at Substrate</title>
       <description>WHY YOU: The clearest walk-through I found of how an AI-native RCM company actually operates: why Substrate dropped browser automation for agents, why payers still mail critical info, and big payers vs. the long tail. Host built Stedi, so he pushes on mechanics.
