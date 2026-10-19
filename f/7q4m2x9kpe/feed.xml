@@ -6,13 +6,60 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 01:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:13:54 +0000</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[GTM Science] How Abridge Built an AI-Powered Enterprise Sales Engine with Jeremy Von Halle</title>
+      <description>WHY YOU: How a $200M+ AI-healthcare company actually runs enterprise sales into ~300 health systems: a 200-person commercial org for 300 accounts (06:36), the save-time → save-money → make-money ROI arc on an 18-month cycle (09:33, 11:26), and centralized AI builds vs. rep-built tools (16:33). The GTM mechanics the Abridge CEO interviews skip.
+
+Host Eddie Reynolds talks with Jeremy Von Halle, VP of Revenue Operations and Chief of Staff to the Chief Commercial Officer at Abridge. Abridge grew from two sellers and under $5M ARR to over $200M in revenue selling into a market of about 300 large health systems. Jeremy walks through the AI-driven rev-ops engine behind that growth: prepping sellers before calls, routing insights from conversations, completing RFPs in under an hour, monitoring all 300 accounts for news, and scoring deal risk — plus Archie, Abridge's internal AI agent in Salesforce and Slack, an ROI framework for long sales cycles, and the case for centralized AI builds over rep-built tools. Timestamps: 00:23 Intro to Jeremy Von Halle and Abridge; 02:48 Why AI in enterprise sales is about depth, not breadth; 06:36 A 200-person commercial org selling into only 300 accounts; 09:33 Save time, save money, make money: the ROI arc; 11:26 When and how to prove ROI with an 18-month sales cycle; 15:39 The QA layer: flagging calls that don't meet the rubric; 16:33 Centralized AI build vs. reps vibe-coding their own solutions; 25:08 How many iterations before you get it right?; 28:19 The foundational data layer; 30:59 Capturing call transcripts and updating Salesforce; 32:10 Golden and rotten events: sentiment signals from interactions; 36:55 Archie: the AI agent embedded in Salesforce and Slack; 40:28 Daily news monitoring across all 300 accounts; 40:58 RFP completion from days to under an hour; 43:23 AI-powered forecast prep for frontline managers; 44:48 Deal risk scoring from conversational and stage-progression data.</description>
+      <pubDate>Mon, 19 Oct 2026 14:13:54 +0000</pubDate>
+      <guid isPermaLink="false">e57545e7-917d-4b9c-86cc-5525244bb134</guid>
+      <link>https://podcasters.spotify.com/pod/show/unionsquareconsulting/episodes/How-Abridge-Built-an-AI-Powered-Enterprise-Sales-Engine-with-Jeremy-Von-Halle-e3onb1f</link>
+      <enclosure url="https://anchor.fm/s/912e5b80/podcast/play/125594095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F431698611-44100-2-f4048bbf144df.mp3" length="49109367" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Understanding Healthcare with Zack Kanter] Medicaid and Medicare with Neil Batlivala at Pair Team</title>
+      <description>WHY YOU: How money actually flows through Medicaid and Medicare (08:05), why state-by-state programs make it hard to build one product (10:22), and how a provider org uses AI care managers plus agentic verification (22:31) to make whole-person Medicaid care pencil out. The payment-flow mechanics under any AI product sold into Medicaid-heavy practices; CMS's ACCESS model at 40:22.
+
+Neil Batlivala is co-founder and CEO of Pair Team, a provider organization offering team-guided, AI-enabled care navigation for Medicaid patients. Neil and Zack cover how Medicaid programs pay providers, why medical care and social services remain fragmented for patients who need both, why Pair Team chose Medicaid over commercial insurance as its first lane, how it finds patients, how it uses AI care managers and agentic verification to lower the cost of whole-person care, and how Medicare's ACCESS model fits in. Chapters: 00:00 Introduction; 00:20 What does Pair Team do?; 01:37 What did Medicaid patients do before Pair Team?; 06:54 Why did Pair Team choose Medicaid over commercial insurance?; 08:05 How does money flow through Medicare and Medicaid?; 10:22 Why is it hard to innovate across state Medicaid programs?; 12:48 How did Pair Team pick Medicaid as its first lane?; 19:31 How does Pair Team find its patients?; 22:31 How does Pair Team use AI agents?; 27:49 Having AI agents prompt the person; 31:35 Where does Medicaid coverage miss what patients need?; 36:26 Who can Pair Team serve, and who can't?; 40:22 What is CMS's ACCESS model for Medicare?; 46:56 What's one thing Neil would change about U.S. healthcare?</description>
+      <pubDate>Mon, 19 Oct 2026 14:13:54 +0000</pubDate>
+      <guid isPermaLink="false">078aad62-12d7-43c3-bded-b207762c6456</guid>
+      <link>https://podcast.stedi.com/9</link>
+      <enclosure url="https://media.transistor.fm/405e78b5/63540e5c.mp3" length="46443335" type="audio/mpeg"/>
+      <itunes:duration>2900</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[晚点聊 LateTalk] 175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻 [中文]</title>
+      <description>WHY YOU: A founder running &gt;$300M ARR across Liblib/Lovart/LibTV defends being accused of buying growth with aggressive pricing: the subsidy/blow-up rumours (4:10), how LibTV membership pricing was set (11:01), the near-collapse (1:08:36) and how an AI app survives as models absorb its value (1:28:10). Rare candid failure-and-unit-economics talk from a Chinese AI-app operator.
+
+晚点聊对话演语科技 Evoken 创始人陈冕。演语科技旗下有 Liblib、Lovart、LibTV 三个产品，ARR 超过 3 亿美元，在 AI 应用融资最艰难的时候以 20 亿美元估值一笔融了 3 亿美元；围绕它的争议也同时达到顶峰：缺少原创、靠激进定价换增长、不够技术、迟早会爆雷。这场对话追问的是：在一个模型不断吞噬应用价值的时代，一家 AI 应用公司如何活下来。章节：4:10 爆雷与补贴传闻；11:01 LibTV 会员定价；21:42 早期融资压力；34:51 原创性争议；49:20 管理与核心团队离开；1:08:36 最接近死亡的时刻；1:28:10 在模型厂商之间活下来；2:05:55 三年复盘。</description>
+      <pubDate>Mon, 19 Oct 2026 14:13:54 +0000</pubDate>
+      <guid isPermaLink="false">6a6ac940981aef4c4aaf68a8</guid>
+      <link>https://www.xiaoyuzhoufm.com/episode/6a6ac940981aef4c4aaf68a8</link>
+      <enclosure url="https://media.xyzcdn.net/61933ace1b4320461e91fd55/liMPlSIgAg9Cp4BX7lha3JfZUOX3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>7740</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[The a16z Show] Why Real-World AI Is Harder Than the Benchmark | EliseAI's Mario Martone [wildcard]</title>
+      <description>WHY YOU: Short one: an operator running AI front-office agents for housing and healthcare on why production reliability (and the cost of a wrong answer on a patient or tenant call) is a different problem from benchmark scores. The operating reality behind every 'we do the work' front-office pitch you'll evaluate.
+
+Mario Martone of EliseAI explains why AI errors in housing and healthcare demand more reliability than benchmark scores suggest. He covers EliseAI's call volume, what breaks when agents meet real tenants and patients, and how the company combines different AI methods to get reliability in production.</description>
+      <pubDate>Mon, 19 Oct 2026 14:13:54 +0000</pubDate>
+      <guid isPermaLink="false">eef7a29a-1f29-4cd8-b32b-365e617a3f1b</guid>
+      <link>https://a16z.simplecast.com/episodes/why-real-world-ai-is-harder-than-the-benchmark-eliseais-mario-martone-SJLazqim</link>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/85a52844-6698-4658-9957-0133eabffba6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=85a52844-6698-4658-9957-0133eabffba6&amp;feed=JGE3yC0V" length="23449714" type="audio/mpeg"/>
+      <itunes:duration>00:24:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Understanding Healthcare with Zack Kanter] Dental billing with Mike Huffaker at Planet DDS</title>
       <description>WHY YOU: Dental is a preview of where practice-side RCM is heading: groups consolidating onto one stack, dental providers submitting medical claims, eligibility data so thin that practices still phone payers for estimates — and a CRO explaining why every health-tech company ends up in RCM (33:54). Kanter pushes on mechanics.
