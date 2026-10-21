@@ -6,13 +6,48 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 14:13:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:17:15 +0000</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Invest Like the Best] Christina Cacioppo - Building an Enduring Software Company in the Age of AI [EP.496]</title>
+      <description>WHY YOU: A CEO with 16,000+ customers on exactly the mechanics you track: why Vanta absorbs the AI inference cost instead of passing it through (07:39), the search for an outcome-pricing unit customers will sign (10:35), and why forward-deployed engineers are a problem rather than a GTM model (27:54). Agent-first product reasoning at 05:41. Disclosure: Vanta is also an Invest Like the Best sponsor — tell me if that should disqualify sponsor-guest episodes on strong-host shows.
+
+Patrick O'Shaughnessy talks with Christina Cacioppo, founder and CEO of Vanta, whose security and compliance platform serves more than 16,000 companies. Five years after their first conversation, they cover how Vanta won a crowded category, how a successful software business gets reinvented for AI, her bet on agents that do the work rather than assist users, the changing economics of software, the competition for top talent, AI's effect on cybersecurity, and building a lasting company in fast-moving Silicon Valley. Timestamps: 00:00:00 How Vanta Won a Crowded Category; 00:03:12 Living Through the Software Selloff; 00:05:41 Building an Agent-First Product; 00:07:39 Why Vanta Eats the Cost of AI; 00:10:35 The Search for Outcome Pricing; 00:14:31 Getting People to Actually Use AI; 00:17:46 Why Comp for Top People Is Up 10X; 00:22:13 Valuations, Tenders, and the Endgame; 00:24:20 What's Overhyped and Underhyped; 00:27:54 The Problem With FDEs; 00:29:34 Why French Startups Use Chinese Models; 00:30:22 Vanta as a Security Company; 00:36:57 What Makes a Great Talk; 00:40:14 Where She Would Invest Today; 00:45:19 The Billboard War; 00:49:35 The AI Trust Crisis; 00:51:39 Security Five Years From Now.</description>
+      <pubDate>Wed, 21 Oct 2026 14:17:15 +0000</pubDate>
+      <guid isPermaLink="false">5d4b6646-cc2c-11f1-b83e-6fbc19058151</guid>
+      <link>https://colossus.com/episode/becoming-a-category-winner/</link>
+      <enclosure url="https://traffic.megaphone.fm/CLS1049065818.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3449</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[The a16z Show] What Happens When Al Agents Can Spend Your Money?</title>
+      <description>WHY YOU: Town started as an AI-powered tax service for small businesses — a services-as-software bet — and Jean-Denis Grèze explains why he walked away from it for a personal assistant that does the work across email, calendar and business workflows, and why model neutrality and owning the data matter once the labs compete with application companies. A pivot story from inside the services-as-software camp; the notes promise no pricing numbers, so take it for the strategy, with Rampell asking the business-model questions.
+
+Town CEO Jean-Denis Grèze argues that AI transformed coding faster than everyday work because the bottleneck is making AI usable for people who lack the time or technical skill to build their own automations, not raw intelligence. He and a16z General Partner Alex Rampell discuss Town's move from tax software to a personal AI assistant built around email, calendars and business workflows; why consumer-grade experiences may win in enterprise AI; how Town finds and automates tasks users would not think to delegate; why model neutrality and data ownership matter as AI labs increasingly compete with application companies; what happens when agents act on people's behalf in everyday work, shopping and commerce; and why software may need to adapt to each user rather than the reverse. Resources: Alex Rampell on X (x.com/arampell); Jean-Denis Grèze on X (x.com/jgreze); Town (town.com). a16z disclosures apply.</description>
+      <pubDate>Wed, 21 Oct 2026 14:17:15 +0000</pubDate>
+      <guid isPermaLink="false">21d29a94-5fb5-4136-83a9-771927d7cdb8</guid>
+      <link>https://a16z.simplecast.com/episodes/what-happens-when-al-agents-can-spend-your-money-PREiwaJH</link>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c3d1e5f9-5c39-4faf-8b09-0939ca33695d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=c3d1e5f9-5c39-4faf-8b09-0939ca33695d&amp;feed=JGE3yC0V" length="60268992" type="audio/mpeg"/>
+      <itunes:duration>01:02:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[十字路口Crossing] 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg [中文] [wildcard]</title>
+      <description>WHY YOU: Three pivots in nine months, told with what killed each one: a design agent dropped because the models ate it (04:59), a fully automated growth agent that did lots of work but produced no growth (17:36), and the 'zero-person company' assumption that didn't hold (06:59, 35:01). Ends on what agents actually pay for (18:04) and a Costco-style model for selling to agents (21:57). Adjacent to your core, but the most candid failure-and-pivot talk this week.
+
+本期嘉宾是 Treg 创始人 Jason Zhou 和创始工程师石天鑫。九个多月里他们经历了三次转向：从设计 Agent SuperDesign，到全自动增长 Agent，再到为 Agent 提供数据与工具的 Treg。聊到垂直 Agent 为什么处境艰难、「零人公司」为什么比看起来更难、AI 干了很多活为什么不等于增长、围绕 Coding Agent 长出来的产品（Ego、ChatCut），以及同时跑多个 Agent 时人反而成为瓶颈。章节：02:18 九个月三次转向：SuperDesign、增长 Agent、Treg；03:10 从周末项目到 6000+ GitHub stars；04:59 模型吃掉应用：为什么放弃 SuperDesign；06:59 「零人公司」浪潮是个错误假设；14:42 一个 Codex 插件意外改变了增长曲线；17:36 从增长 Agent 里抽出最有价值的一层；18:04 Agent 最常买什么工具；20:13 浏览器抓不到的数据是工具市场的价值；21:57 为什么 Treg 更像 Costco；23:39 应用公司的数据飞轮；25:38 三次转向的教训：建在 Claude Code 和 Codex 之上；26:43 Ego (lite) 与 ChatCut；31:56 从 Vibe Island 到 Orca：多 Agent 时代的机会；34:25 转向期两个月不做产品；35:01 「零人公司」为什么不成立；36:18 怎么做 Loop Engineering；38:50 同时跑 5–10 个 session，人成了瓶颈；40:13 Claude Code 还是 Codex；41:41 Grok Bot 与云端沙盒；43:22 国产模型、视频模型、快模型各自适合的场景；45:08 当程序员写不过 AI；47:15 三次转向中最想放弃的时刻；49:05 Fail fast；49:22 相信 AGI 会来为什么还要创业；50:28 即使有通用模型，仍然需要更好的工具。</description>
+      <pubDate>Wed, 21 Oct 2026 14:17:15 +0000</pubDate>
+      <guid isPermaLink="false">6ad2412d0e4e410a05be01a7</guid>
+      <link>https://www.xiaoyuzhoufm.com/episode/6ad2412d0e4e410a05be01a7</link>
+      <enclosure url="https://media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a" length="0" type="audio/mp4"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[GTM Science] How Abridge Built an AI-Powered Enterprise Sales Engine with Jeremy Von Halle</title>
       <description>WHY YOU: How a $200M+ AI-healthcare company actually runs enterprise sales into ~300 health systems: a 200-person commercial org for 300 accounts (06:36), the save-time → save-money → make-money ROI arc on an 18-month cycle (09:33, 11:26), and centralized AI builds vs. rep-built tools (16:33). The GTM mechanics the Abridge CEO interviews skip.
