@@ -6,13 +6,49 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 14:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:13:58 +0000</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[The Heart of Healthcare] From Early Struggles to Billion+ Exit | SmarterDx Founders Michael Gao &amp; Joshua Geleris</title>
+      <description>WHY YOU: The founders of the largest AI-coding exit in healthcare on the part that matters to you: 18 months without a customer, the pre-bill review workflow that made contingency (share-of-recovered-revenue) pricing possible, AI translating clinical notes into billing codes now beating the average human coder, and why they'd pick a flywheel over a 'moat'. Short, but it is the economics behind every contingency-priced AI RCM pitch. Host Steve Kraus is a Bessemer partner and Bessemer backed SmarterDx; flag it if you'd rather exclude investor-host episodes.
+
+Building a healthcare startup is harder than most people acknowledge. SmarterDx, now one of the largest health AI exits to date, went about 18 months without a customer, pursued a pivot that seemed to make little product sense, and saw its co-founders return to hospitalist shifts to cover expenses. Host Steve Kraus talks with CEO Dr. Michael Gao and Head of Product Dr. Joshua Geleris about those struggles, what finally drove growth, and the billion-plus acquisition by New Mountain Capital. Topics: why the first product idea failed and what customer objections taught them; the workflow that made contingency pricing possible; how AI translating clinical notes into billing codes now outperforms the average human, and what that means for coders and nurses; why a flywheel is a better model than a moat; and what they would change about the acquisition process. Gao was previously Medical Director for Transformation at NewYork-Presbyterian and holds faculty roles at Icahn School of Medicine at Mount Sinai and Weill Cornell Medicine; Geleris was an Assistant Professor of Medicine at Columbia University, where NIH and DoD funded his clinical informatics work, and led Epic implementation for providers. Episode 245.</description>
+      <pubDate>Fri, 23 Oct 2026 14:13:58 +0000</pubDate>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/b33kV3Q53z3PpTeu4FdQLLOJamFYngzSrqOPaq0aPIw</guid>
+      <link>https://www.heartofhealthcarepodcast.com/episodes</link>
+      <enclosure url="https://rss.art19.com/episodes/6daed5b8-a57c-4c16-ae7b-82fc61a19dbc.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386" length="34021041" type="audio/mpeg"/>
+      <itunes:duration>00:35:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Training Data] Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion</title>
+      <description>WHY YOU: A public-company CEO on the margin question under every AI-services business: lab token subsidies can't last, so who absorbs the cost when they end, and why he thinks a model-agnostic application layer that routes tokens keeps the customer relationship (06:56 will the labs move up the stack; 12:34 betting the company on AI; 48:00 why coding diffused fast and other knowledge work hasn't). Diffusion, not model quality, as the gating constraint on enterprise AI revenue.
+
+Aaron Levie, cofounder and CEO of Box, describes transforming a public company around AI and building an application-layer agent harness tuned to Box's file system, permissions, and search. He argues that lab token subsidies cannot last and that enterprises benefit from a model-agnostic company routing their tokens, and explains why coding adopted AI faster than other knowledge work. Timestamps: 0:00 Introduction; 1:55 Are application companies the hottest neolabs?; 6:56 Will the labs move up the stack?; 12:34 Box and betting the company on AI; 16:50 Hero use cases; 18:42 Work slop; 24:08 Building Box's agentic harness and the evals that matter; 27:23 The state of the model race; 29:25 Open-weight model adoption in the enterprise; 32:34 Memory, continual learning, and what belongs in the weights; 37:29 Box Labs and systems of record; 44:55 Will chat be the dominant UI?; 48:00 Why coding diffused fast; 54:31 Staying wired in and making a company AI-first. Hosted by Sequoia Capital.</description>
+      <pubDate>Fri, 23 Oct 2026 14:13:58 +0000</pubDate>
+      <guid isPermaLink="false">d2e9aa74-b080-11f1-8007-f31e2b6b4e53</guid>
+      <link>https://sequoiacap.com/podcast/box-s-aaron-levie-on-reinventing-yourself-in-the-ai-age-and-enterprise-diffusion</link>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI7737498941.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3921</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[The a16z Show] The Missing Infrastructure for AI Agents: Documents | Reducto's Adit Abraham [wildcard]</title>
+      <description>WHY YOU: Every prior-auth, claims and denials agent you evaluate is downstream of this problem: messy faxes, scans and PDFs. Reducto's CEO (billions of pages a month; the seven-billionth landed the morning of recording) explains why OCR fails, why frontier models silently drop fields on long extraction jobs, and how a vision-model-plus-infrastructure layer is sold into healthcare, insurance, legal and finance. Infrastructure, not an operator story, hence the wildcard tag.
+
+Reducto co-founder and CEO Adit Abraham joins a16z General Partner Jennifer Li to argue that document understanding is a missing layer for AI agents in healthcare, legal, finance, and insurance. They discuss why traditional OCR struggles with messy documents, how Reducto pairs vision-language models with specialized infrastructure, and why frontier models can silently drop information on long extraction tasks. Reducto processes billions of pages monthly and reached its seven billionth page the morning of the recording. a16z disclosures apply.</description>
+      <pubDate>Fri, 23 Oct 2026 14:13:58 +0000</pubDate>
+      <guid isPermaLink="false">6cedfc66-45d4-4e69-9b1c-9ae2db71f875</guid>
+      <link>https://a16z.simplecast.com/episodes/the-missing-infrastructure-for-ai-agents-documents-reductos-adit-abraham-Tf_0B_WM</link>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9d496dca-083d-42c6-a9ba-c003aba257b9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=9d496dca-083d-42c6-a9ba-c003aba257b9&amp;feed=JGE3yC0V" length="36755018" type="audio/mpeg"/>
+      <itunes:duration>00:38:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Invest Like the Best] Christina Cacioppo - Building an Enduring Software Company in the Age of AI [EP.496]</title>
       <description>WHY YOU: A CEO with 16,000+ customers on exactly the mechanics you track: why Vanta absorbs the AI inference cost instead of passing it through (07:39), the search for an outcome-pricing unit customers will sign (10:35), and why forward-deployed engineers are a problem rather than a GTM model (27:54). Agent-first product reasoning at 05:41. Disclosure: Vanta is also an Invest Like the Best sponsor — tell me if that should disqualify sponsor-guest episodes on strong-host shows.
