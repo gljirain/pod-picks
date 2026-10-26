@@ -6,13 +6,59 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 14:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:14:12 +0000</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Get Paid with Manny Medina] How Intercom's CFO Bet the Business on Outcome-Based Pricing</title>
+      <description>WHY YOU: The CFO who actually signed off on Intercom's per-resolution pricing for Fin, on the parts that matter to you: why a simple outcome price beat a cleverer one, how he trades model sophistication against unit economics, and how seller comp was rebuilt so reps would push the AI plan without eroding margin. The finance-side view of outcome-based pricing that the founder interviews skip.
+
+Episode 50 of Get Paid. Host Manny Medina talks with Dan Griggs, Chief Financial Officer of Intercom, about how outcome-based pricing changes the economics of AI agents, why simple pricing beats complex pricing, and the strategic decisions behind SaaS companies' shift to charging for AI-powered work. Covered: moving from perpetual licenses to subscriptions while managing debt covenants; why outcome-based pricing may be the most sustainable model for AI agents; balancing AI model sophistication against unit economics; leading with principles in uncharted markets; designing seller compensation that drives transformation without destroying margins. Griggs's background includes electrical engineering, finance rotations at AT&amp;T and Nestle, scaling Rocket Fuel from pre-IPO to over $400M in revenue, and Sitecore under private-equity ownership; at Intercom he pioneered outcome-based pricing for AI agents.</description>
+      <pubDate>Mon, 26 Oct 2026 14:14:12 +0000</pubDate>
+      <guid isPermaLink="false">https://media.fame.so/wk41n968.mp3</guid>
+      <link>https://podcasts.fame.so/e/4n9m0wvn-dan-griggs-intercom</link>
+      <enclosure url="https://media.fame.so/wk41n968.mp3" length="0" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Lifers with Christina Farr] Healthcare runs a 1980s model in 2026 | Aaron Miri, Baptist Health</title>
+      <description>WHY YOU: The buyer's side of every pitch you make: a health system's chief digital officer on which back-office roles AI has already stopped him hiring (no help-desk hire in 18 months), what it would take to get claims paid same-day, why payer friction and liability still slow deployment, and how a system decides what it will actually pay for clinical AI. Journalist-hosted, no sponsor on this one.
+
+Christina Farr talks with Aaron Miri, executive VP and chief digital and innovation officer at Baptist Health, about how AI is changing the way health systems operate and where liability, privacy law and payer friction still slow it down. Miri says Baptist hasn't hired a help desk agent in more than 18 months and expects AI to affect future hiring more than current roles, and argues for a universal patient identifier, the 'primary key' healthcare AI lacks. Timestamps: 00:00 Lead-in; 00:29 Intro; 01:22 ER experience breakdown; 03:39 Fixing intake friction; 06:26 Clinical AI shortcuts; 10:04 Liability and tort reform; 14:04 Universal patient ID debate; 20:54 Patients versus clinician AI; 24:50 Automation and admin jobs; 27:42 Automation shrinks the back office; 29:18 Claims and same-day payment; 33:20 Cutting costs without knee-jerk moves; 35:50 Profit pools and public programs; 39:06 Ending payer-provider resentment; 43:57 Free markets and funding innovation; 46:45 Paying for clinical AI; 48:26 Good-enough AI in practice; 50:59 AI risk versus the status quo; 53:03 Wrap.</description>
+      <pubDate>Mon, 26 Oct 2026 14:14:12 +0000</pubDate>
+      <guid isPermaLink="false">b6a67da8-c3a2-11f1-9a6a-3f65344c02e8</guid>
+      <link>https://www.podpage.com/secondopinion/</link>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/RINTP1775612793.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3276</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Lifers with Christina Farr] Healthcare AI works best on jobs no one thought to do | Hippocratic AI CEO Munjal Shah</title>
+      <description>WHY YOU: A founder selling AI agents into health systems explains his actual price (per-minute, at 31:53), the ROI cases he closes with (three cancers found for $1,700 of AI cost in a screening-outreach run; 50,000 heat-wave calls), his traction numbers (26:41) and the copilot/autopilot/'infinite pilot' framing for which jobs AI should own outright. Pricing mechanics for selling labor-replacing AI to hospitals.
+
+Christina Farr talks with Munjal Shah, co-founder and CEO of Hippocratic AI, about whether clinical AI will shrink healthcare's workforce and who is responsible when it errs. Shah lays out his Copilot, Autopilot and Infinite Pilot framework and argues the best results come from tasks healthcare never tried, such as calling 50,000 people during a New York heat wave; he also cites a lung cancer screening outreach that found three cancers for $1,700 in AI costs. Timestamps: 00:00 Lead-in; 00:42 Intro; 01:51 AI extinction-panic weekend; 04:47 Healthcare as an AI risk target; 06:56 Hippocratic's safety system; 09:20 Avoiding the AI-doctor trap; 12:34 Sponsor: Granola; 13:33 Liability and taking responsibility; 16:08 Redundancy and the clinical team; 18:30 Whether AI will shrink healthcare jobs; 20:38 Infinite Pilot ROI examples; 26:41 Business traction and growth metrics; 31:53 Per-minute pricing; 34:36 Fixing AI PR with specifics; 40:06 Wrap. Episode sponsor: Granola (meeting notes).</description>
+      <pubDate>Mon, 26 Oct 2026 14:14:12 +0000</pubDate>
+      <guid isPermaLink="false">220b5808-b236-11f1-8b80-0b780ff8184d</guid>
+      <link>https://www.podpage.com/secondopinion/</link>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8019878274.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>2510</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[42章经] 一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓 [中文] [wildcard]</title>
+      <description>WHY YOU: An operator who ran Plaud's China business and a large-revenue company before founding a personal-agent startup, on whether agent cost is really the obstacle (10:07), how much real demand exists (11:39), why needs tied to money or status are easier to sell because the ROI is legible (14:45), why AI-coworker adoption is slower than expected (17:06), and how to make money from businesses that don't look promising (47:28). Consumer-side, hence the wildcard tag, but the demand/ROI reasoning transfers.
+
+42章经主播曲凯对谈 Ambi 创始人莫子皓（前 Plaud 合伙人及中国区 CEO，米公益创始人（后被轻松筹收购），曾任暖哇科技、百川智能医疗业务产品与运营负责人）。上半部分聊 Personal Agent：01:49 为什么 Personal Agent 现在火了；05:58 去年'智能已经够用'的假设可能错了；10:07 成本是不是真障碍；11:39 真实需求有多少；14:45 和钱、地位绑定的需求更好做，ROI 清楚；17:06 为什么 AI 同事的落地比预期慢；18:34 转向 B 端是不是过度模仿硅谷；19:18 大厂会不会赢；21:10 Personal Agent 是否天然缺乏网络效应；24:16 快评 Town、Grok Bot、Muse、Instinct；32:31 Ambi 如何与 Muse 之类竞争；40:25 应用公司自己训模型。下半部分聊经营与心法：42:49 经营过大营收业务、模型公司和消费硬件公司的核心体会；47:28 不被看好的生意如何赚钱；50:31 生意的本质；57:01 什么人会招人；1:03:04 最大的焦虑是速度；1:04:56 硬件的优势从哪来；1:08:57 这一波最大的机会；1:11:51 '主动式'产品设计的常见错误；1:18:36 亿级用户产品的时机到了吗；1:21:08 为什么中国 AI 产品跑出来的少。</description>
+      <pubDate>Mon, 26 Oct 2026 14:14:12 +0000</pubDate>
+      <guid isPermaLink="false">6accc5de195d838e2af0bd9a</guid>
+      <link>https://www.xiaoyuzhoufm.com/episode/6accc5de195d838e2af0bd9a</link>
+      <enclosure url="https://media.xyzcdn.net/648b0b641c48983391a63f98/lkR2rf-l-fT_P_I6f-TaY5vLNT6e.m4a" length="0" type="audio/mp4"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[The Heart of Healthcare] From Early Struggles to Billion+ Exit | SmarterDx Founders Michael Gao &amp; Joshua Geleris</title>
       <description>WHY YOU: The founders of the largest AI-coding exit in healthcare on the part that matters to you: 18 months without a customer, the pre-bill review workflow that made contingency (share-of-recovered-revenue) pricing possible, AI translating clinical notes into billing codes now beating the average human coder, and why they'd pick a flywheel over a 'moat'. Short, but it is the economics behind every contingency-priced AI RCM pitch. Host Steve Kraus is a Bessemer partner and Bessemer backed SmarterDx; flag it if you'd rather exclude investor-host episodes.
