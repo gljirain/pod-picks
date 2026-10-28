@@ -6,13 +6,37 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 14:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:13:30 +0000</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[The GTMnow Podcast] Legora's CRO: $3.5M to $200M+ ARR, the Fastest Direct Sales Motion | Patrick Forquer</title>
+      <description>WHY YOU: The sales-side mechanics behind the legal-AI company you track, from the CRO who took Legora from $3.5M to $200M ARR: a pilot designed so customers keep what they build (24:00), hiring 2-to-1 post-sale and the forward-deploy structure (15:30), time-to-value as the leading indicator of revenue (18:30), and the shift to consumption pricing (56:00). Chapter marks come from the feed and run slightly past the 52-minute audio, so treat them as order rather than exact. Show sponsor is Nooks, unrelated to the guest.
+
+Legora grew from $3.5M to more than $100M in revenue in roughly a year, which the show calls the fastest a direct-sales motion has gone from zero to $100M, then doubled in under six months to $200M ARR. Patrick Forquer spent seven years at Braze, from its early days through the IPO, before joining Legora, a vertical legal-AI company backed by Benchmark and Redpoint, when it was at $3.5M in revenue. He walks through that scaling journey: his three criteria for joining a company (founder, product, investors), why time-to-value is the number-one leading indicator of revenue, the pilot design that lets customers keep what they build, forward-deployed team structure, the Jude Law and Aaron Judge brand campaigns and how brand ROI was measured, the '8 Mile' approach to competitive objections, screening sales hires for AI fluency, and the move to consumption pricing. Chapters: 0:00 Intro; 1:08 Leaving Braze for Legora at $3.5M; 1:40 The three criteria; 4:30 Assessing a founder; 6:40 Advice for operators joining AI-native companies; 9:10 Early days and first US pipeline; 12:00 From $3.5M to over $100M; 13:10 The two biggest GTM unlocks; 15:30 Hiring 2-to-1 post-sale and forward-deploy structure; 18:30 Time-to-value as the leading indicator; 21:00 Forward-deployed engineers for your own product; 24:00 Pilot design; 28:00 Shipping cadence; 30:00 A full sales tech-stack overhaul mid-scale; 32:30 The Jude Law campaign; 36:00 The Aaron Judge and Yankees partnership; 38:30 Measuring brand ROI; 47:00 What a great AE at Legora does differently; 50:00 Screening for AI fluency; 52:00 Competitive objections and the '8 Mile' framework; 56:00 The shift to consumption pricing; 58:00 Rapid fire. Hosted by Sophie Buonassisi (GTMfund). Sponsored by Nooks.</description>
+      <pubDate>Wed, 28 Oct 2026 14:13:30 +0000</pubDate>
+      <guid isPermaLink="false">Buzzsprout-19918487</guid>
+      <link>https://podcasts.apple.com/ca/podcast/legoras-cro-%243-5m-to-%24200m-arr-the-fastest-direct/id1369291464?i=1000793478953</link>
+      <enclosure url="https://pscrb.fm/rss/p/https://mgln.ai/e/p23020/www.buzzsprout.com/2090897/episodes/19918487-legora-s-cro-3-5m-to-200m-arr-the-fastest-direct-sales-motion-patrick-forquer.mp3" length="42011529" type="audio/mpeg"/>
+      <itunes:duration>3106</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[The a16z Show] OpenAI: When AI Agents Use Computers Faster Than You [wildcard]</title>
+      <description>WHY YOU: Every RCM and prior-auth workflow you evaluate ends up in a payer portal or EHR screen with no API. OpenAI's computer-use team on why agents that drive software through the screen are now at a scaling point, how they are being put against legacy ERP-style systems, why the harness around the model matters more than the model, and the deterministic guardrails enterprises set around them. Lab-side and a16z-hosted, so no pricing numbers; a wildcard for the mechanics behind the next generation of back-office agents.
+
+OpenAI's Ari Weinstein and James Sun argue that computer-use agents, which operate software without APIs, are entering a scaling phase. They join a16z's Seema Amble and Fabrizio Serafini to discuss agents working with legacy ERP systems, why the harness around a model matters, and how enterprises can set deterministic guardrails. They also look ahead to agents that work in the background and adapt to users rather than requiring users to adapt to them.</description>
+      <pubDate>Wed, 28 Oct 2026 14:13:30 +0000</pubDate>
+      <guid isPermaLink="false">62b74e3f-b5e0-4b51-8d87-9d4b12ef86d1</guid>
+      <link>https://a16z.simplecast.com/episodes/openai-when-ai-agents-use-computers-faster-than-you-QLF23qpt</link>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2c129b5d-535b-4c40-a104-2d0a66853196/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=2c129b5d-535b-4c40-a104-2d0a66853196&amp;feed=JGE3yC0V" length="43509665" type="audio/mpeg"/>
+      <itunes:duration>00:45:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Get Paid with Manny Medina] How Intercom's CFO Bet the Business on Outcome-Based Pricing</title>
       <description>WHY YOU: The CFO who actually signed off on Intercom's per-resolution pricing for Fin, on the parts that matter to you: why a simple outcome price beat a cleverer one, how he trades model sophistication against unit economics, and how seller comp was rebuilt so reps would push the AI plan without eroding margin. The finance-side view of outcome-based pricing that the founder interviews skip.
