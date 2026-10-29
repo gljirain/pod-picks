@@ -6,13 +6,61 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Wed, 28 Oct 2026 14:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:43:08 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Understanding Healthcare with Zack Kanter] Payer enrollment with Megan Struxness at Bridge</title>
+      <description>WHY YOU: The provider-side plumbing you run every day, from the head of payer ops and RCM at Bridge: how payer contracting and enrollment actually work, superbills and out-of-network claims, the limits of eligibility checks, how Bridge offers guaranteed payment, and how it gets providers enrolled and billing in about 45 days. Directly comparable to Klarity&#x27;s own provider onboarding.
+
+Megan Struxness is Head of Payer Operations and Revenue Cycle Management at Bridge, a healthcare platform that helps providers get credentialed, enrolled with payers and paid. Zack and Megan cover payer contracting, superbills, out-of-network claims, eligibility limits, guaranteed payment and onboarding providers in 45 days.</description>
+      <pubDate>Thu, 29 Oct 2026 05:43:08 GMT</pubDate>
+      <guid isPermaLink="false">26b728a3-f186-49f7-9499-24958e0d4064</guid>
+      <link>https://podcast.stedi.com/4</link>
+      <enclosure url="https://media.transistor.fm/4a1c37d8/72ca3fcd.mp3" length="52906760" type="audio/mpeg"/>
+      <itunes:duration>3304</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Understanding Healthcare with Zack Kanter] Credentialing explained with Varun Krishnamurthy at Assured Health</title>
+      <description>WHY YOU: An AI-native credentialing and enrollment company&#x27;s CEO on how insurers verify providers, where the bottlenecks and closed panels really are, and when outsourcing credentialing makes sense: the build-vs-buy and pricing logic for a step that gates every new provider you add.
+
+Varun Krishnamurthy is the co-founder and CEO of Assured Health, an AI-powered provider credentialing and enrollment company. He and Zack cover how insurers verify providers, credentialing bottlenecks, closed panels, and when outsourcing credentialing makes sense.</description>
+      <pubDate>Thu, 29 Oct 2026 05:43:08 GMT</pubDate>
+      <guid isPermaLink="false">5ed43034-ce99-4ccb-89f7-f79d596b8f89</guid>
+      <link>https://podcast.stedi.com/5</link>
+      <enclosure url="https://media.transistor.fm/a5e41966/7b8c7264.mp3" length="43540914" type="audio/mpeg"/>
+      <itunes:duration>2718</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Vital Signs with Jacob Effron and Nikhil Krishnan] Ep 67: Abridge Leaders on AI-Native Healthcare, Doctors Who Code, and the Future of Clinical AI</title>
+      <description>WHY YOU: Pairs with the Abridge sales-engine episode already in your feed: how an AI-native health company is run internally (15:59), where admin AI vs. clinical AI will actually make money (21:08), and Abridge&#x27;s move into payers and prior auth (24:47). Host Effron sits on Abridge&#x27;s board, so expect a friendly interview.
+
+Abridge&#x27;s CEO and a clinical scientist on AI-native company operations, doctors who code, prototypes vs production, regulation and partnerships, admin vs clinical AI, payers and prior authorization, and pre-visit workflows and triage. Chapters: (0:00) Intro (6:30) Doctors Who Code (9:07) Prototypes vs Production (15:59) AI Native Company Ops (21:08) Admin vs Clinical AI (24:47) Payers and Prior Auth (35:19) Context, Autonomy, and Demand (40:40) Pre-visit Workflows and Triage.</description>
+      <pubDate>Thu, 29 Oct 2026 05:43:08 GMT</pubDate>
+      <guid isPermaLink="false">9316f523-0f2a-43cc-afc8-6c4aabd6dd72</guid>
+      <link>https://vital-signs-e526bbac.simplecast.com/episodes/ep-67-abridge-leaders-on-ai-native-healthcare-doctors-who-code-and-the-future-of-clinical-ai-DAU2oyfg</link>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/b3414ac6-61c8-4752-8722-491e1457c3bf/52447fe7-b12b-4a5c-9dea-95b1eae7c423/episodes/audio/group/29a23eff-d7dd-4560-8218-6f08ab68bedf/group-item/7771f7e5-5403-4804-ae9b-e598f68d7add/128_default_tc.mp3?aid=rss_feed&amp;feed=CC7kJR0I" length="42830876" type="audio/mpeg"/>
+      <itunes:duration>2676</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[张小珺Jùn｜商业访谈录] 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏 [中文]</title>
+      <description>WHY YOU: Same honesty as the Liblib episode you liked: the 妙鸭 founder&#x27;s first interview in two years, admitting his breakout AI product wasn&#x27;t actually AI-native, what he got wrong about what lasts after a viral hit, and how he thinks about irreversible bets now. Over three hours, so it fits a long hike.
+
+张小珺对谈张月光（妙鸭相机创始人），创业两年后首次长访谈：妙鸭为什么不是 AI Native 产品、从流程设计到上下文设计、One Way Door 式的不可逆决策，以及新方向乙女游戏。</description>
+      <pubDate>Thu, 29 Oct 2026 05:43:08 GMT</pubDate>
+      <guid isPermaLink="false">6970c1e0109824f9e1c60e7a</guid>
+      <link>https://www.xiaoyuzhoufm.com/episode/6970c1e0109824f9e1c60e7a</link>
+      <enclosure url="https://media.xyzcdn.net/626b46ea9cbbf0451cf5a962/loO-1ybVpymqgCDLe0P0iLTL9ueO.m4a" length="0" type="audio/mp4"/>
+      <itunes:duration>11640</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[The GTMnow Podcast] Legora's CRO: $3.5M to $200M+ ARR, the Fastest Direct Sales Motion | Patrick Forquer</title>
       <description>WHY YOU: The sales-side mechanics behind the legal-AI company you track, from the CRO who took Legora from $3.5M to $200M ARR: a pilot designed so customers keep what they build (24:00), hiring 2-to-1 post-sale and the forward-deploy structure (15:30), time-to-value as the leading indicator of revenue (18:30), and the shift to consumption pricing (56:00). Chapter marks come from the feed and run slightly past the 52-minute audio, so treat them as order rather than exact. Show sponsor is Nooks, unrelated to the guest.
