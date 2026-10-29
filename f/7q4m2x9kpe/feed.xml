@@ -6,13 +6,25 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 05:43:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:50:11 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Pear Healthcare Playbook] Lessons from Jeffery Liu, Co-Founder and Co-CEO of Assort Health, on Fixing the Front Door of Healthcare with AI Agents</title>
+      <description>WHY YOU: One of the fastest-growing AI front-office companies (specialty-specific voice agents for scheduling and triage), on what its first real deployments taught it and how it turns custom implementations per specialty into a platform. That&#x27;s the scaling problem every &#x27;we do the work&#x27; healthcare AI company hits.
+
+Jeffery Liu, co-founder and co-CEO of Assort Health, on specialty-specific AI voice agents for patient access: how Assort started, why patient access is still hard to fix, lessons from early deployments, handling scheduling and triage complexity, scaling customized implementations into a platform, and AI patient navigation across voice and text.</description>
+      <pubDate>Thu, 29 Oct 2026 05:50:11 GMT</pubDate>
+      <guid isPermaLink="false">e5149b64-5c02-4896-9f68-22c44b6e7540</guid>
+      <link>https://podcasters.spotify.com/pod/show/pearhealthcareplaybook/episodes/Lessons-from-Jeffery-Liu--Co-Founder-and-Co-CEO-of-Assort-Health--on-Fixing-the-Front-Door-of-Healthcare-with-AI-Agents-e3g6qiq</link>
+      <enclosure url="https://anchor.fm/s/14477228/podcast/play/116664346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F0e5d4a2c-42bc-6343-c6a0-e81d5ec69625.mp3" length="101142848" type="audio/mpeg"/>
+      <itunes:duration>2528</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Understanding Healthcare with Zack Kanter] Payer enrollment with Megan Struxness at Bridge</title>
       <description>WHY YOU: The provider-side plumbing you run every day, from the head of payer ops and RCM at Bridge: how payer contracting and enrollment actually work, superbills and out-of-network claims, the limits of eligibility checks, how Bridge offers guaranteed payment, and how it gets providers enrolled and billing in about 45 days. Directly comparable to Klarity&#x27;s own provider onboarding.
