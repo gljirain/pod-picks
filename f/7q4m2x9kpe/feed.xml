@@ -6,13 +6,37 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 05:50:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:58:13 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Lenny&#x27;s Podcast] Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam</title>
+      <description>WHY YOU: The standard reference on how AI companies should charge, from the pricing advisor behind 400+ companies: how AI pricing differs (27:35), handling pilots that never convert (31:33), choosing the AI pricing model (38:58), and how to set up outcome-based pricing (44:48). The framework to judge every pricing story in your feed.
+
+Madhavan Ramanujam (Simon-Kucher; Monetizing Innovation / Scaling Innovation) on pricing AI products. (04:30) Core thesis (09:20) Common traps (12:06) Beautifully simple pricing (15:00) Negotiations (27:35) How AI pricing is different (31:33) Handling POCs (38:58) Choosing the AI pricing model (43:13) Current trends (44:48) Outcome-based models (50:23) Packaging (53:40) Pricing axioms.</description>
+      <pubDate>Thu, 29 Oct 2026 05:58:13 GMT</pubDate>
+      <guid isPermaLink="false">lenny-168109183</guid>
+      <link>https://www.lennysnewsletter.com/p/pricing-and-scaling-your-ai-product-madhavan-ramanujam</link>
+      <enclosure url="https://api.substack.com/feed/podcast/168109183/e5dd8ad18d55b14bcc357c7e9e5e3c65.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>4303</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Lenny&#x27;s Podcast] How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)</title>
+      <description>WHY YOU: A candid founder turnaround, in the spirit of the Liblib episode you liked: Intercom&#x27;s founder on going &#x27;wartime&#x27;, betting about $100M on AI, and building Fin and its per-resolution pricing. Pairs with the Intercom CFO episode already in your feed.
+
+Eoghan McCabe, founder and CEO of Intercom, on how the company went from stagnation to one of the leading AI customer-service businesses by betting everything on AI: the wartime reset, the Fin AI agent and outcome-based pricing, culture and leadership changes.</description>
+      <pubDate>Thu, 29 Oct 2026 05:58:13 GMT</pubDate>
+      <guid isPermaLink="false">lenny-170710700</guid>
+      <link>https://www.lennysnewsletter.com/p/how-intercom-rose-from-the-ashes-eoghan-mccabe</link>
+      <enclosure url="https://api.substack.com/feed/podcast/170710700/6afc073b240c02f879d4a5f5ebcb06f0.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>4980</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Pear Healthcare Playbook] Lessons from Jeffery Liu, Co-Founder and Co-CEO of Assort Health, on Fixing the Front Door of Healthcare with AI Agents</title>
       <description>WHY YOU: One of the fastest-growing AI front-office companies (specialty-specific voice agents for scheduling and triage), on what its first real deployments taught it and how it turns custom implementations per specialty into a platform. That&#x27;s the scaling problem every &#x27;we do the work&#x27; healthcare AI company hits.
