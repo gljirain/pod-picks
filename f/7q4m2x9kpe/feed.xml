@@ -6,13 +6,35 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 05:58:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:23:43 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[十字路口Crossing] OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI [中文]</title>
+      <description>WHY YOU: The services-as-software question from the vendor&#x27;s side of the table: two ex-BCG consultants who run an FDE-style AI services firm open with their revenue, profit and headcount (01:08), explain why AI sells as labor rather than software and why FDEs look like HR business partners placing &#x27;digital employees&#x27; (02:19), lay out the three ways implementations die — CEO expectations, IT-led instead of business-led, incentives that don&#x27;t change (32:01) — and close on whether the model is &#x27;Service as Software&#x27; or &#x27;Result as a Service&#x27;, one-client-per-industry exclusivity, and why FDE firms may suit being owned rather than VC-funded (49:08). Listener comments dispute the firm&#x27;s client count and scale, so treat the numbers as claims.
+
+主播 Koji 对谈 Rolling AI 合伙人阿甘和刘开，聊 OpenAI 与 Anthropic 同日宣布的 FDE（前线部署工程师）岗位与企业 AI 落地的生意。01:08 快问快答：背景、公司、收入、利润、团队规模、过往经历；02:19 AI 是劳动力而非软件，FDE 像 HRBP 把&#x27;数字员工&#x27;放进企业，为何离开 BCG，MBB 在中国民企遇到的问题；08:22 第一个案例：乳企用 AI agent 服务约 600 万用户，营养师与目标用户之间约 200 倍的供给缺口，最难的是找到好的人类专家来训练 AI；19:58 FDE 要完成业务融合、知识治理、系统打通才能离场，好的 FDE 兼具问题诊断、人机协作和快速原型能力；25:09 SOP 意味着慢，总部从控制转向赋能，管理层级会被压缩；28:21 企业失败不是因为没用新技术——技术只占 AI 落地的不到三分之一；32:01 三种失败模式：CEO 期望不切实际、IT 主导而非业务主导、激励机制没有随技术改变；43:29 应届生能提供什么，如何判断商业 sense；46:49 实验室为何入场 FDE：数据与行业知识缺口是模型落地的主要障碍，ToB 本质是服务生意，JV 为何采用 PE 式结构；49:08 商业模式：FDE 公司更适合被 VC 持有而非被 VC 投资，一个行业只服务一家，未来是 Service as Software 还是 Result as a Service。约 55 分钟。</description>
+      <pubDate>Fri, 30 Oct 2026 14:23:43 GMT</pubDate>
+      <guid isPermaLink="false">6a1e4022ac7bdb080c348b41</guid>
+      <link>https://www.xiaoyuzhoufm.com/episode/6a1e4022ac7bdb080c348b41</link>
+      <enclosure url="https://media.xyzcdn.net/60502e253c92d4f62c2a9577/ljlaTRJiMRLNBe_LUqmAt0C74Xo6.m4a" length="0" type="audio/mp4"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[42章经] 一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪 [中文] [wildcard]</title>
+      <description>WHY YOU: Candor in the Liblib mould: a founder who raised money, hit the &#x27;peak of ignorance&#x27; and then the valley of despair as coding models got strong, walks through three pivot decisions that sounded coherent and were wrong — vertical agents (08:45), over-serving professional users (11:40), the wrong scenario (12:28) — asks whether many vertical-agent products are really staged for investors (17:30), contrasts two AI software business models, high-spend operations vs the gym model (18:45), and argues ToB isn&#x27;t worth founding a company for (22:48). No revenue numbers and consumer-leaning, hence the wildcard tag, but it is the counter-case to every vertical-agent pitch you hear.
+
+42章经主播曲凯对谈 invoko.ai 创始人梦琪（前字节跳动）。02:54 去年融到大钱的创业者该不该敬 Manus 一杯；03:45 三四月份一度觉得做软件是疯了；05:17 AI Coding 已经这么强，为什么跑出来的产品这么少；08:26 复盘转型路上的错误决策：08:45 ① 做垂直 Agent，11:40 ② 过度服务专业用户，12:28 ③ 选错场景；17:08 垂直 Agent 的两个结构性困境，17:30 很多 AI 产品是不是只是做给投资人看的场景；18:45 AI 软件的两种商业模式：高投入运营 vs 健身房模式；21:18 效率工具能否提供情绪价值，Steam 给我的启发；22:48 对我来说 ToB 不是值得创业的方向；24:44 吐槽创始人的虚荣心、装和愚昧之巅；28:36 看过美国 ToB 打法后对美国创业生态祛魅；30:21 AI Coding 越强，我越敬畏软件；35:58 消费产品把一件事做好就有价值；39:07 一个粗暴但有效的用户调研方法；44:00 AI 可能彻底颠覆&#x27;拿着锤子找钉子&#x27;；51:02 传播乐观：软件仍有巨大潜力；55:38 抵制 AI 圈的&#x27;全球首个 xxx&#x27;和番茄小说式话术；57:41 上一个产品回答的是讨好市场的证明题，现在想回答真正的开放题；1:01:37 灵魂拷问：离开字节创业后悔吗；1:05:00 创业不该过度依赖左脑。约 69 分钟。</description>
+      <pubDate>Fri, 30 Oct 2026 14:23:43 GMT</pubDate>
+      <guid isPermaLink="false">6a100e7da7621e15d0c88337</guid>
+      <link>https://www.xiaoyuzhoufm.com/episode/6a100e7da7621e15d0c88337</link>
+      <enclosure url="https://media.xyzcdn.net/648b0b641c48983391a63f98/lsI79O-Z19zPlvmqdBpZnEOGPk3F.m4a" length="0" type="audio/mp4"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Lenny&#x27;s Podcast] Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam</title>
       <description>WHY YOU: The standard reference on how AI companies should charge, from the pricing advisor behind 400+ companies: how AI pricing differs (27:35), handling pilots that never convert (31:33), choosing the AI pricing model (38:58), and how to set up outcome-based pricing (44:48). The framework to judge every pricing story in your feed.
