@@ -6,13 +6,25 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 14:23:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:16:25 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[20VC] Satya Nadella on Open vs Closed Models: Who Wins | Whether to Trust Frontier Model Providers | Why Companies Need to Own Their Own Intelligence | The Importance of Verticalisation: From Chips to Models and More [wildcard]</title>
+      <description>WHY YOU: Microsoft&#x27;s CEO, in 26 minutes, on the question under every AI-services margin story you track: whether a company should own its own intelligence rather than rent a frontier model (10:08), open vs closed over the next two years (08:28), whether AI shifts the economy toward implementation work — the FDE / services-as-software thesis seen from the platform side (13:22) — and whether AI will do to sales, finance and marketing what it did to coding (19:39). Platform-side and no pricing numbers, hence the wildcard tag; held for three runs until the 20VC feed became reachable.
+
+Harry Stebbings interviews Satya Nadella, CEO of Microsoft (34 years at the company; market cap from $300BN to $3.9TRN during his tenure as CEO). 03:08 should AI models be presumed unsafe; 04:13 limiting harm from autonomous AI agents; 06:15 how far a model&#x27;s reasoning trace can be trusted; 07:05 whether China&#x27;s open-source lead is a safety risk; 08:28 open vs closed: which model type leads over the next two years; 10:08 why companies should control their own AI capabilities; 12:12 will every company become AI-native; 13:22 does AI shift the economy toward implementation work; 15:10 is owning the full AI stack necessary to win; 16:49 can the world sustain $100B training runs; 18:34 could AI sharply speed up global growth; 19:39 will AI transform sales, finance and marketing as it has coding; then a quickfire round. 26 minutes.</description>
+      <pubDate>Mon, 02 Nov 2026 16:16:25 GMT</pubDate>
+      <guid isPermaLink="false">ade69352-b9cb-4e49-a952-a7d7741a3203</guid>
+      <link>https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more</link>
+      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Satya_Nadella__Microsoft.mp3?dest-id=240976" length="25050065" type="audio/mpeg"/>
+      <itunes:duration>26:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[十字路口Crossing] OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI [中文]</title>
       <description>WHY YOU: The services-as-software question from the vendor&#x27;s side of the table: two ex-BCG consultants who run an FDE-style AI services firm open with their revenue, profit and headcount (01:08), explain why AI sells as labor rather than software and why FDEs look like HR business partners placing &#x27;digital employees&#x27; (02:19), lay out the three ways implementations die — CEO expectations, IT-led instead of business-led, incentives that don&#x27;t change (32:01) — and close on whether the model is &#x27;Service as Software&#x27; or &#x27;Result as a Service&#x27;, one-client-per-industry exclusivity, and why FDE firms may suit being owned rather than VC-funded (49:08). Listener comments dispute the firm&#x27;s client count and scale, so treat the numbers as claims.
