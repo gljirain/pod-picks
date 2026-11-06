@@ -6,13 +6,49 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 16:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:07:11 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Sourcery] Commure Hits $7B Backed by GC, Sequoia, Morgan Stanley</title>
+      <description>WHY YOU: The P&amp;L of an AI-native RCM company from the CEO running the largest one: 85%+ of revenue-cycle work now completes with no human in the loop, ARR has doubled three years running across 500+ organizations and 3,000+ care sites, and he explains why point-solution AI vendors &#x27;will be gone in three years&#x27;, how General Catalyst&#x27;s Customer Value Fund finances the health-system sales motion, and what the Augmedix and Summa Health deals were for. Sourcery&#x27;s written companion to this episode adds the margin split (SaaS high-80s/90s vs full-cycle RCM high-60s in implementation, mid-70s at steady state) — the reference numbers for every contingency or percent-of-collections AI RCM pitch you evaluate. Held since the 10-29 extra batch; the anchor feed finally resolved this run. Host Molly O&#x27;Shea is a VC-adjacent interviewer, but this is the CEO talking numbers.
+
+Tanay Tandon, co-founder and CEO of Commure, on the company&#x27;s $70M raise at a $7B post-money valuation led by General Catalyst, with Sequoia, Morgan Stanley and Kirkland &amp; Ellis participating; $750M raised to date. Commure runs inside 500+ healthcare organizations and 3,000+ care sites and completes 85%+ of revenue cycle work without a human in the loop. Founded when Tandon was 18 from a Stanford dorm; now 1,200 employees and ARR doubled three years running. Topics: General Catalyst&#x27;s Customer Value Fund, why platforms beat point solutions, the Augmedix acquisition, the Summa Health partnership, and the path to an IPO. 57 minutes.</description>
+      <pubDate>Fri, 06 Nov 2026 15:07:11 GMT</pubDate>
+      <guid isPermaLink="false">f45f3cc7-a407-47ed-a50c-c74bbc9f613e</guid>
+      <link>https://podcasters.spotify.com/pod/show/sourcery/episodes/Commure-Hits-7B-Backed-by-GC--Sequoia--Morgan-Stanley-e3jja0o</link>
+      <enclosure url="https://anchor.fm/s/f192713c/podcast/play/120219096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F424465595-44100-2-93c02b3be7edd.mp3" length="54833736" type="audio/mpeg"/>
+      <itunes:duration>00:57:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Lifers with Christina Farr] Healthcare AI needs humans | Microsoft&#x27;s Peter Lee &amp; Seattle Children&#x27;s Chris Longhurst</title>
+      <description>WHY YOU: The buyer&#x27;s-side answer to the question under every scribe and back-office pitch: a children&#x27;s-hospital CEO and Microsoft&#x27;s health-AI lead on why ambient scribes still lack a clean financial win (09:27), where the back-office cost curve actually bends (21:36), which admin jobs change and what skills replace them (23:12), the copilot-to-agent step (30:11) and the three Cs — competence, communication, character — that keep humans in the loop (36:25). Calibration for how a health-system buyer will score the ROI slide of any AI RCM or front-office vendor. Held since 10-26 for a missing enclosure; the megaphone feed finally gave it up this run. Journalist-hosted; a Granola ad read at 18:09, unrelated to the guests.
+
+Christina Farr hosts Peter Lee (Microsoft) and Chris Longhurst (CEO, Seattle Children&#x27;s) on where healthcare AI really stands versus the hype: why ambient scribes lack a clear financial win, Longhurst&#x27;s prediction that within 3-5 years an AI-aided physician assistant could match top general pediatricians, the competence/communication/character test for keeping humans in the loop, and Lee&#x27;s worry that AI gets used to dodge accountability. Timestamps: 00:00 Lead in; 00:28 Intro; 01:23 Massive moment; 04:01 ER reality; 06:12 Upskilling; 07:13 Tech CEOs; 09:27 Scribe costs; 13:43 Hierarchy; 15:23 Workforce; 18:09 Sponsor; 18:55 Training; 21:36 Back office; 23:12 Admin skills; 27:50 Self-driving; 30:11 Agents; 32:59 Clinical autonomy; 36:25 Humans in loop; 39:27 Accountability; 41:37 Frontier models; 46:35 Interoperability; 47:53 Wrap. Sponsor: Granola.</description>
+      <pubDate>Fri, 06 Nov 2026 15:07:11 GMT</pubDate>
+      <guid isPermaLink="false">274712b8-aace-11f1-9614-e7bf1d13b086</guid>
+      <link>https://www.podpage.com/secondopinion/</link>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/RINTP6964975395.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>2952</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Raising Health] The AI-Native Health Plan | UnitedHealth Group&#x27;s Dan Kueter [wildcard]</title>
+      <description>WHY YOU: The payer side of prior auth and denials, from UnitedHealth Group&#x27;s chief commercial officer: UnitedHealthcare&#x27;s stated goal of eliminating 30% of prior authorizations and what a &#x27;touchless&#x27; PA would look like, self-funded plans reaching smaller employers, how AI changes underwriting and distribution, and personal AI agents as a new front door that payers must meet. a16z-hosted (Julie Yoo, recorded at a16z BUILD) and polished, no pricing numbers, hence the wildcard — but 38 minutes to hear what the largest payer says it will stop asking for is worth it for anyone billing against it.
+
+Can AI make healthcare cheaper? UnitedHealth Group Chief Commercial Officer Dan Kueter thinks it could within a single-digit number of years, once AI moves past automating administrative work to enabling new capabilities. Recorded at a16z BUILD with Julie Yoo, the conversation covers a major shift in employer-backed coverage, why self-funded plans are reaching smaller employers, how AI is reshaping underwriting, distribution and consumer navigation, UnitedHealthcare&#x27;s goal of eliminating 30% of prior authorizations and what a touchless version could look like, and how personal AI agents could become a new entry point to healthcare that pushes insurers to meet people wherever they engage. 38 minutes.</description>
+      <pubDate>Fri, 06 Nov 2026 15:07:11 GMT</pubDate>
+      <guid isPermaLink="false">54d4af5c-9b80-4fe5-b07f-a49b3dc4f84c</guid>
+      <link>https://raisinghealth.simplecast.com/episodes/the-ai-native-health-plan-unitedhealth-groups-dan-kueter-EZxTuARW</link>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/d1df597a-30d8-4cae-bb4c-22a8ec496e6d/episodes/68a2d994-29ab-4679-a5d8-a38811cbfb55/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d1df597a-30d8-4cae-bb4c-22a8ec496e6d&amp;awEpisodeId=68a2d994-29ab-4679-a5d8-a38811cbfb55&amp;feed=BXDamaKF" length="36874981" type="audio/mpeg"/>
+      <itunes:duration>00:38:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[20VC] Satya Nadella on Open vs Closed Models: Who Wins | Whether to Trust Frontier Model Providers | Why Companies Need to Own Their Own Intelligence | The Importance of Verticalisation: From Chips to Models and More [wildcard]</title>
       <description>WHY YOU: Microsoft&#x27;s CEO, in 26 minutes, on the question under every AI-services margin story you track: whether a company should own its own intelligence rather than rent a frontier model (10:08), open vs closed over the next two years (08:28), whether AI shifts the economy toward implementation work — the FDE / services-as-software thesis seen from the platform side (13:22) — and whether AI will do to sales, finance and marketing what it did to coding (19:39). Platform-side and no pricing numbers, hence the wildcard tag; held for three runs until the 20VC feed became reachable.
@@ -449,18 +485,6 @@ Out-of-Pocket is a healthcare education company founded by Nikhil Krishnan that 
       <link>https://a16z.simplecast.com/episodes/how-consumer-behavior-is-rewiring-us-healthcare-5Ex9w8F7</link>
       <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b9597c4d-7ff6-4f3e-ba0c-47acfa6044a9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=b9597c4d-7ff6-4f3e-ba0c-47acfa6044a9&amp;feed=JGE3yC0V" length="90272596" type="audio/mpeg"/>
       <itunes:duration>5642</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[十字路口Crossing] “我们首先要贵！” ——定价200美金/月才能验证AI市场刚需｜对谈郭振宇：Sandwich Lab创始人/CEO [中文] [wildcard]</title>
-      <description>WHY YOU: A founder argues for pricing an AI agent at $200/month to test whether demand is real, the inverse of the usual land-cheap playbook.
-
-本周十字路口的嘉宾是郭振宇，Sandwich Lab 创始人兼 CEO。他们的产品 Lexi 是一款专为中小企业设计的 AI Agent，用于在 Meta 平台进行广告投放。 在访谈中，郭振宇详细介绍了 Lexi 如何通过"影子模式"帮助客户投放 Meta 广告，并解释了他们采用 200 美元/月定价策略来验证刚需的思路。他还分享了创业过程中的「多巴胺时刻」和「顿悟时刻」。 郭振宇强调， Lexi 仅是 Sandwich Lab 宏大蓝图中的一小部分。 他分享了公司充满野心的愿景：用 AI 帮助企业「增长营收」。Meta 广告投放只是实现这一目标的路径之一，他们计划陆续推出 Email Marketing Agent，以及服务于财务、税务、法务、供应链和人力资源的各种 Agent。Sandwich Lab 的核心理念是：只要能帮企业增长营收的 Agent，都在他们的发展规划之中。 —— 嘉宾介绍 ：郭振宇，Sandwich Lab 创始人兼 CEO，本科毕业于浙江大学，博士毕业于不列颠哥伦比亚大学（UBC）。在博士攻读期间，他参与创业并帮助公司成功成为特斯拉的一级供应商。担任Postmates AI总监时，振宇领导了自动驾驶送餐机器人的研发项目。后来加入阿里达摩院主导小蛮驴自动驾驶项目。 —— Sandwich Lab 介绍 ：用 AI 为全球中小企业提供自动化营收增长解决方案，公司已获得锦秋、汇量科技、五源、戈壁阿里巴巴创业者基金超过千万美金的投资。 🟢 Part 1 快问快答 01:27 快问快答：年龄、毕业院校、MBTI、星座、职业经历 01:49 公司/产品介绍、融资情况、收入利润、团队规模 . 🟢 Part 2 聊聊 Lexi 03:42 Lexi 取得了哪些成绩？ 04:17 Lexi 的目标用户是谁？ ——让人意想不到的选择 15:20 用 Lexi 去帮 Lexi 自己投放获客，效果如果？ 20:45 Lexi 如何让用户信任自己？ 27:26 全世界的生意，都要去社交媒体做广告 37:26 Lexi 的投放结果，超过了人类吗？ 42:06 「我们首先要</description>
-      <pubDate>Fri, 16 Oct 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">68736b6d60f8f77d403e53df</guid>
-      <link>https://www.xiaoyuzhoufm.com/episode/68736b6d60f8f77d403e53df?utm_source=rss</link>
-      <enclosure url="https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/68736b6d60f8f77d403e53df/media.xyzcdn.net/60502e253c92d4f62c2a9577/lseIYrqcGO0iwYk4mIhY4iJ_GpEw.m4a" length="81675936" type="audio/mp4"/>
-      <itunes:duration>5050</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
