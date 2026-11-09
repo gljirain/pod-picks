@@ -6,13 +6,48 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Fri, 06 Nov 2026 15:07:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:01:38 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[A Product Market Fit Show] He had paying customers before he even incorporated, then hit $1M ARR in a year and raised a $19M Series A. | Rahul Shivkumar, Co-Founder of Assured</title>
+      <description>WHY YOU: The healthcare version of the Legora CRO episode you asked for. Assured does AI credentialing and payer enrollment (the product side is already in your feed via Kanter); this is the sales motion, with numbers: two customers signed before the company was incorporated and four new logos in one week (02:21), starting at the front door of the revenue cycle (11:36), the ROI math and where it falls flat (21:28), $1M ARR in a year and how one small logo opens a whole specialty (30:25), six human BDRs at 150–200 calls a day and 8% pickup beating AI SDRs (34:27), and discovery-before-demo lifting close rate from 18% to 40% (48:20). Host Pablo Srugo is a VC, but the numbers are the founder&#x27;s. Held since 11-06 for a missing audio URL; the buzzsprout feed exposed it this run.
+
+Rahul ran a sleep clinic that lived on insurance paperwork, sold it, and built the tool he wished he had. Two customers signed before incorporation; $1M ARR within a year; a $19M Series A. The episode covers why the team chose six human BDRs over AI SDRs, how running discovery before demos raised the close rate, and why landing one small customer can open an entire medical specialty. Chapters: 00:00 Intro; 02:21 Four new customers in one week; 05:14 From Dawn Health to Assured; 11:36 Starting at the front door of revenue cycle; 18:00 Human in the loop, 100% accuracy; 21:28 The ROI math, and when it falls flat; 30:25 $1M ARR and the power of one logo; 34:27 Why human BDRs beat AI SDRs; 48:20 Discovery before the demo; 51:27 Getting stalled deals over the line.</description>
+      <pubDate>Mon, 09 Nov 2026 15:01:38 GMT</pubDate>
+      <guid isPermaLink="false">Buzzsprout-19904768</guid>
+      <link>https://pmfshow.substack.com/p/he-had-paying-customers-before-he-461</link>
+      <enclosure url="https://www.buzzsprout.com/1889238/episodes/19904768-he-had-paying-customers-before-he-even-incorporated-then-hit-1m-arr-in-a-year-and-raised-a-19m-series-a-rahul-shivkumar-co-founder-of-assured.mp3" length="41017252" type="audio/mpeg"/>
+      <itunes:duration>3414</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[BUILDERS] How Arintra built a 100% pilot success rate by leading with ROI in autonomous medical coding | Nitesh Shroff</title>
+      <description>WHY YOU: A 19-minute GTM brief from the CEO of an autonomous medical-coding company selling into hospitals: why a 6–8 month sales cycle counts as fast in this market, pilots run as the conversion path with value shown inside 2–3 months, the pilot metrics he closes on (5–8% compliant revenue uplift, 32% coding cost reduction, 64% faster collections), and how the same deal is pitched to the CFO (margin), the VP of Revenue Cycle (leverage and compliance) and the Director of Coding (Epic/Athena/NextGen integration). The wedge argument — enter through a workflow the hospital cannot skip, not a productivity pitch — is the one to test against your own front-office positioning. Caveats: April 2026 (just past the six-month window), an agency-produced B2B founder show with sponsor reads, and no pricing or ARR.
+
+Medical coding is a mandatory workflow: no code, no claim, no payment. The US is not producing enough coders, payer complexity keeps growing and hospital margins are thin. Arintra CEO and co-founder Nitesh Shroff explains how the company wins deals in a slow, high-stakes market: a 6–8 month sales cycle, a 100% pilot success rate, and ROI that compounds across the revenue cycle. Topics: the $19,000 ER bill behind the company; how the coding shortage, payer complexity and margin pressure created an urgent buying motion; the metrics behind the pilot record (5–8% compliant revenue uplift, 32% cost reduction, 64% faster collections); persona messaging for the CFO, VP of Revenue Cycle and Director of Coding; expanding from autonomous coding into CDI, prior authorization and denial prevention; the &#x27;document, charge, get paid&#x27; platform vision. Formerly published as Category Visionaries (Front Lines Media).</description>
+      <pubDate>Mon, 09 Nov 2026 15:01:38 GMT</pubDate>
+      <guid isPermaLink="false">3ce491eb-3ceb-45bb-9727-504444e6205a</guid>
+      <link>https://podcasters.spotify.com/pod/show/brett49/episodes/How-Arintra-built-a-100-pilot-success-rate-by-leading-with-ROI-in-autonomous-medical-coding--Nitesh-Shroff-e3i7sr1</link>
+      <enclosure url="https://anchor.fm/s/10d840d10/podcast/play/118796577/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-21%2F889dea50-9edd-5a55-a697-4c9790058537.mp3" length="22938611" type="audio/mpeg"/>
+      <itunes:duration>00:19:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[十字路口Crossing] AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO [中文] [wildcard]</title>
+      <description>WHY YOU: The FDE-economics question from a founder&#x27;s side of the table, in Mandarin: a post-training-as-a-service (RLaaS) startup on why forward-deployed work is unavoidable at entry and how it declines (10:16), how to get industrial clients to calculate ROI (22:13), the three criteria for accepting an enterprise request (23:22), how two FDEs support a dozen-plus B2B clients and which work gets pulled into product (34:02), whether the company earns more or less as models need less training (38:20) and why AI ToB can make ROI legible where Chinese SaaS could not (40:58). Industrial RL rather than healthcare and no numbers in the notes, hence the wildcard; pairs with the Rolling AI FDE episode already in your feed.
+
+Kevin Ding is founder and CEO of Pyromind, an RL-as-a-service company that recently closed an angel round (Hillhouse, Baidu Ventures, Banchi, Atypical). The show notes present AutoRL — an automated loop of training, rewards, feedback, deployment and data reflow — as the main bet, with use cases in industrial quality inspection, process-parameter optimisation, GUI agents and coding agents, and PyroDash, a hybrid architecture pairing a 4B worker model with a strong base model. Timestamps: 00:23 quick-fire (background, company stats); 01:55 why the endgame looks like a swarm of agents, not one super model; 03:44 why RSI mattered this year; 05:21 which half of the problem RLaaS solves; 08:32 selecting customers suited to AutoRL; 10:16 why FDE work is unavoidable at first and declines later; 22:13 helping industrial clients calculate ROI; 23:22 three criteria for accepting an enterprise request; 26:29 cost, efficiency and privacy trade-offs; 27:03 how PyroDash coordinates models; 29:23 problems harnesses cannot solve; 34:02 how two FDEs support a dozen-plus clients and what moves into product; 38:20 whether Pyromind earns more or less as models need less training; 40:58 why AI ToB can make ROI clear despite the difficulty of Chinese SaaS; 42:06 could cloud providers absorb Pyromind; 47:47 why demand will not consolidate into one base model.</description>
+      <pubDate>Mon, 09 Nov 2026 15:01:38 GMT</pubDate>
+      <guid isPermaLink="false">6a90fc5e1352af56ff3d48af</guid>
+      <link>https://www.xiaoyuzhoufm.com/episode/6a90fc5e1352af56ff3d48af</link>
+      <enclosure url="https://media.xyzcdn.net/60502e253c92d4f62c2a9577/lsQ-rKE8nfRBI5xaLGst3A8uncfD.m4a" length="0" type="audio/mp4"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Sourcery] Commure Hits $7B Backed by GC, Sequoia, Morgan Stanley</title>
       <description>WHY YOU: The P&amp;L of an AI-native RCM company from the CEO running the largest one: 85%+ of revenue-cycle work now completes with no human in the loop, ARR has doubled three years running across 500+ organizations and 3,000+ care sites, and he explains why point-solution AI vendors &#x27;will be gone in three years&#x27;, how General Catalyst&#x27;s Customer Value Fund finances the health-system sales motion, and what the Augmedix and Summa Health deals were for. Sourcery&#x27;s written companion to this episode adds the margin split (SaaS high-80s/90s vs full-cycle RCM high-60s in implementation, mid-70s at steady state) — the reference numbers for every contingency or percent-of-collections AI RCM pitch you evaluate. Held since the 10-29 extra batch; the anchor feed finally resolved this run. Host Molly O&#x27;Shea is a VC-adjacent interviewer, but this is the CEO talking numbers.
@@ -449,42 +484,6 @@ Episode 57: host Manny Medina sits down with Jaya Gupta from Foundation Capital 
       <link>https://podcasts.fame.so/e/vn5j0278-jaya-gupta</link>
       <enclosure url="https://media.fame.so/w0vlql1w.mp3" length="90213212" type="audio/mpeg"/>
       <itunes:duration>2255</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[Cheeky Pint] Bret Taylor of Sierra on AI agents, outcome-based pricing, and the OpenAI board</title>
-      <description>WHY YOU: Directly answers how Sierra charges: outcome vs seat pricing, from the founder, with a numbers-minded host.
-
-Bret Taylor, co-founder of Sierra and Chair of the OpenAI board, joins John for a pint to discuss the rapid shift toward an agentic future. In this episode, Bret explains why outcome-based pricing is the future of software business models, and why he believes the atomic unit of AI productivity is a process, not a person. They cover why big companies struggle to adopt AI because they are “shipping their org charts.” Bret also discusses a new type of hyper-generalist, reflects on his experience with the OpenAI and Twitter boards, and explains why he believes we might see the end of the smartphone era. Timestamps (00:00:26) Coding (00:16:23) Sierra (00:27:14) Agentic UX (00:38:47) Building support agents (00:45:43) Co-developing with the models (00:50:08) SaaSpocalypse (01:00:50) Stripe Sessions (01:01:33) Outcome-based pricing (01:09:14) Is Sierra short AGI? (01:13:50) AI productivity (01:</description>
-      <pubDate>Fri, 16 Oct 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">b951ff6e-9570-4d21-a85f-7af0beb4e80d</guid>
-      <link>https://share.transistor.fm/s/5240a856</link>
-      <enclosure url="https://media.transistor.fm/5240a856/bf5de915.mp3" length="97377847" type="audio/mpeg"/>
-      <itunes:duration>6083</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[Unsupervised Learning with Jacob Effron] Ep 67: Max Junestrand (CEO, Legora) on Differentiating and Pricing AI Apps &amp; How the Legal Industry Will Evolve</title>
-      <description>WHY YOU: Pricing is the explicit topic, and it is the Legora side of Harvey-vs-Legora.
-
-Jacob and Logan sit down with Max Junestrand, founder and CEO of Legora - a rapidly growing legal AI platform (and Redpoint portfolio company). After announcing their Series B last week, Max joined the show to discuss why law is uniquely suited for AI, what it takes to scale an enterprise-ready product across global markets, and a few crazy moments from Legora’s journey so far. They dig into product strategy, lessons on evolving alongside foundational models, and how AI is reshaping the future of law firms. Whether you're building in AI or just curious how it’s being applied in complex industries, this one’s packed with practical insights. (0:00) Intro (1:30) The Evolution of AI in Law (2:43) AI's Impact on Legal Processes (8:28) Advantages Over Other Players in the AI Law Space (12:19) Challenges in Educating Users (17:28) The Hardest Part of Building Legora (18:46) Pricing Models and C</description>
-      <pubDate>Fri, 16 Oct 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">a1ea83cb-4385-4e79-835b-7f81be5b77d6</guid>
-      <link>https://unsupervised-learning.simplecast.com/episodes/ep-67-max-junestrand-ceo-legora-on-replacing-billable-hours-pricing-ai-apps-evolving-legal-teams-k94KadSo</link>
-      <enclosure url="https://cdn.simplecast.com/audio/2c08ad29-5b79-42c0-a40a-6c1af4327f2f/episodes/fcb747e3-fedb-4203-90f5-3ee930fc17eb/audio/d180430a-c8ae-4671-abbd-78268764c688/default_tc.mp3?aid=rss_feed&amp;feed=dOSE_bdP" length="42391553" type="audio/mpeg"/>
-      <itunes:duration>2649</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[The a16z Show] Healthcare 2026: AI Doctors, GLP-1s, and Insurance Defection</title>
-      <description>WHY YOU: Broadest of the batch: a16z's read on where healthcare money moves in 2026. No RCM/EHR episode cleared the bar yet, so this holds the healthcare slot.
-
-Out-of-Pocket is a healthcare education company founded by Nikhil Krishnan that helps people understand how healthcare works and how to navigate it in practice. In this episode, a16z investing partner Jay Rughani and Nikhil discuss why health insurance is losing its role as the default way people access care. They explain how rising costs are pushing more consumers to pay out of pocket for diagnostics, preventive care, and navigation. The conversation also looks at what this shift means for startups, AI-powered tools, regulation, and access as healthcare continues to move beyond insurance. Resources: Follow Jay Rughani on X: https://twitter.com/JayRughani Follow Nikhil Krishnan on X: https://twitter.com/nikillinit Read Out of Pocket’s 2026 Predictions: https://www.outofpocket.health/p/out-of-pockets-2026-predictions Stay Updated: Find a16z on X Find a16z on LinkedIn Listen to the a16z Sh</description>
-      <pubDate>Fri, 16 Oct 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">46533040-31a3-4344-a0b7-788182ae6a60</guid>
-      <link>https://a16z.simplecast.com/episodes/how-consumer-behavior-is-rewiring-us-healthcare-5Ex9w8F7</link>
-      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b9597c4d-7ff6-4f3e-ba0c-47acfa6044a9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=b9597c4d-7ff6-4f3e-ba0c-47acfa6044a9&amp;feed=JGE3yC0V" length="90272596" type="audio/mpeg"/>
-      <itunes:duration>5642</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
