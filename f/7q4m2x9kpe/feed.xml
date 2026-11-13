@@ -6,13 +6,49 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 15:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:04:45 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[The a16z Show] How Enterprise AI Really Gets Deployed</title>
+      <description>WHY YOU: The Sierra-peer founder interview held since the 11-09 run; the a16z feed finally came back readable. Decagon&#x27;s co-founders on the mechanics of getting AI customer-support, sales and operations agents live inside large enterprises: forward-deployed engineering as the deployment model and what of it stays, enterprise sales and rollout planning, latency/evaluation/fine-tuning as production constraints, and the margin lever of moving most inference to open-source models. A third-party summary of the episode (not the show notes) adds the points that make it worth your time: the CEO spending most of his time selling, Decagon&#x27;s glass-box positioning against Sierra&#x27;s FDE-heavy black box, and a customer going from a few support journeys a year on Sierra to several a month. Caveats: a16z-hosted (an investor), no pricing, ARR or margin figures in the notes, 3.5 months old, 80 minutes. Use it as the comparison point for how services-as-software companies scope a deployment and what they refuse to productize.
+
+Sarah Wang and Kimberly Tan talk with Decagon co-founders Jesse Zhang and Ashwin Sreenivas about enterprise AI agents: why Decagon has moved most of its inference to open-source models, how it helps large companies take AI into production, its agents for customer support, sales and operational workflows, and how latency, evaluation and fine-tuning shape production systems. The conversation also covers forward-deployed engineering, enterprise sales, AI&#x27;s effect on jobs, and why application companies can thrive alongside the foundation-model labs.</description>
+      <pubDate>Fri, 13 Nov 2026 16:04:45 GMT</pubDate>
+      <guid isPermaLink="false">36a8220e-1090-417d-8ba7-c483df5c4f5d</guid>
+      <link>https://a16z.simplecast.com/episodes/decagons-playbook-for-building-enterprise-ai-applications-VB3G3VC1</link>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9e904d6f-9c1a-40ec-9238-59acf0e69b9d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=9e904d6f-9c1a-40ec-9238-59acf0e69b9d&amp;feed=JGE3yC0V" length="77381487" type="audio/mpeg"/>
+      <itunes:duration>01:20:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[The a16z Show] AI for America&#x27;s Small Businesses | Lassie</title>
+      <description>WHY YOU: The closest thing this run to a practice-side RCM operator with numbers. Lassie sells AI agents that read insurance claims, reconcile payments, post to the ledger and flag underpayments, denials and missing claims for small dental practices, which is the back office you sell into. From a16z&#x27;s own write-ups and a third-party summary of the episode: 700+ practices in 49 states and $10M+ annualized revenue at the June 2026 Series A; the first agent priced at five figures per practice per year against roughly 30 hours a month of admin labor it replaces; a 98% automation rate with a &gt;95% bar before a module ships; about 70% of practices still paid by paper check; and a GTM built around dentists being absent from LinkedIn and Apollo (licensing data, provider directories, office-manager job postings as intent signals, study clubs and state dental associations as referral channels), with messaging about hours of labor you cannot hire rather than AI. The candid bits: staff often prefer paper, which is why earlier software stalled, and self-serve onboarding is still months away. Caveats: a16z-hosted and a16z-led round, so a friendly interview; no timestamps; 3.5 months old; the second a16z item in this batch because nothing from another show cleared the bar.
+
+Alex Rampell and Olivia Moore speak with Lassie co-founders Steijn Pelle and Frédéric Renken about bringing AI to small businesses. Inspired by time spent inside dental practices, they set out to automate administrative work such as billing, insurance claims and patient payments. The conversation covers AI agents, onboarding AI into real businesses, healthcare administration as an automation opportunity, product design, go-to-market strategy, and building AI systems that run reliably in complex environments.</description>
+      <pubDate>Fri, 13 Nov 2026 16:04:45 GMT</pubDate>
+      <guid isPermaLink="false">05a4f44f-480e-45ae-9bfe-563dfb544a65</guid>
+      <link>https://a16z.simplecast.com/episodes/ai-for-americas-small-businesses-lassie-bwImYMRh</link>
+      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f566a458-61e5-4456-abc1-ca3c6013eff6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=f566a458-61e5-4456-abc1-ca3c6013eff6&amp;feed=JGE3yC0V" length="56611004" type="audio/mpeg"/>
+      <itunes:duration>00:58:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[The GTMnow Podcast] Inside Exa&#x27;s Run to $100M ARR: Building Google for AI Agents | Marcus Holm (CRO, Exa) [wildcard]</title>
+      <description>WHY YOU: Same show and format as the Legora-CRO episode you liked, but for a consumption-priced AI company. A CRO (ex-LaunchDarkly president) on the part of usage-based pricing that most AI-services pricing talk skips: how to structure rep compensation when revenue is consumption rather than seats (15:29), why consumption means selling continuously after signature (17:01), moving customers from pay-as-you-go to enterprise contracts (18:36), economic-buyer alignment (36:05) and teaching multithreading (38:20), plus hiring, ramping and letting go of reps (24:42 to 29:40). Wildcard because Exa sells search infrastructure to developers, not services, and the $100M ARR headline is the hook rather than the lesson. Held since 10-27. Sponsor read (Nooks) at 14:59.
+
+Exa recently crossed $100M ARR after growing roughly 10x a year for nearly three years. CRO Marcus Holm, formerly president at LaunchDarkly, explains how the company is building search for AI agents, why co-founder Will&#x27;s prediction that agents would search more than humans in 2026 has come true, and what that means for SEO, ads and salespeople. He also covers selling to developers, designing consumption-based compensation, aligning executive buyers, and hiring and ramping reps. Chapters: 0:00 trailer; 1:12 why Marcus left LaunchDarkly for Exa; 2:50 criteria for evaluating companies; 6:16 crossing $100M ARR; 7:42 Will&#x27;s prediction about agent search; 9:17 what agent search means for SEO and ads; 10:20 how the salesperson&#x27;s role changes in a bottoms-up model; 13:00 who the end customer is; 14:59 sponsor break; 15:29 structuring compensation for a consumption model; 17:01 consumption as continuous selling; 18:36 scaling from pay-as-you-go to enterprise; 20:27 selling to developers; 24:42 hiring traits; 27:00 ramping reps; 28:10 when to let a rep go; 31:53 go-to-market after $100M; 34:35 lessons from LaunchDarkly and Cloudera; 36:05 economic-buyer alignment; 38:20 teaching multithreading; 40:38 how the team uses AI tools; 44:05 why GTM hiring now outpaces engineering; 49:05 how agent search queries change month to month; 53:21 underrated GTM advice.</description>
+      <pubDate>Fri, 13 Nov 2026 16:04:45 GMT</pubDate>
+      <guid isPermaLink="false">Buzzsprout-20026841</guid>
+      <link>https://www.buzzsprout.com/2090897/episodes/20026841-inside-exa-s-run-to-100m-arr-building-google-for-ai-agents-marcus-holm-cro-exa</link>
+      <enclosure url="https://pscrb.fm/rss/p/https://mgln.ai/e/p23020/www.buzzsprout.com/2090897/episodes/20026841-inside-exa-s-run-to-100m-arr-building-google-for-ai-agents-marcus-holm-cro-exa.mp3" length="44718693" type="audio/mpeg"/>
+      <itunes:duration>3373</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[BUILDERS] Why winning the C-suite is not enough in healthcare AI | James Bates</title>
       <description>WHY YOU: A 21-minute practice-side GTM brief from the CEO of AdviNow Medical, which sells billing, claims and compliance automation to small and mid-size practices, i.e. the buyer you sell to. The claims to test against your own motion: a stopwatch-and-spreadsheet Six Sigma analysis that found physicians spending about 70% of their time on billing and compliance rather than medicine; practices moving from low-single-digit to roughly 35% profitability after onboarding (his figure, unverified); growth that is 100% referral-driven because the profitability change sells itself; and the title lesson that a CEO signing over the CTO&#x27;s objection creates a saboteur, so the champion below the C-suite has to be won before the signature. Caveats: an agency-produced founder show with a sponsor read, no pricing or ARR, and the profitability number is vendor talk. Held from the 11-09 run; BUILDERS&#x27; second item in two batches.
@@ -448,42 +484,6 @@ Gabe Stengel is co-founder and CEO of Rogo, an AI platform for finance. He argue
       <link>https://colossus.com/episode/building-investing-superintelligence/</link>
       <enclosure url="https://traffic.megaphone.fm/CLS7922860814.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>3864</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[The a16z Show] Why AI Could Finally Fix Healthcare Access | Zocdoc CEO Oliver Kharraz</title>
-      <description>WHY YOU: An incumbent front door turning its scheduling layer into infrastructure for AI agents, insurers and other platforms (the Gemini deal). If agents become the patient's entry point, the front-office stack you sell to practices changes shape — worth hearing how Zocdoc plans to be paid for that.
-
-Why is booking a doctor's appointment still so hard, and can AI finally fix it? Zocdoc CEO Oliver Kharraz argues the problem isn't finding doctors; it's connecting patients to accurate availability and making appointments bookable from wherever a patient starts. a16z General Partner Julie Yoo and Oliver discuss how Zocdoc spent nearly two decades building the infrastructure for online scheduling and is now opening that technology to AI agents, insurers and other platforms. They cover Zocdoc's partnership with Gemini, why patients shouldn't be locked into a single healthcare platform, how surfacing last-minute openings can cut waits from weeks to days, what changes when AI becomes a new front door to healthcare, and why Zocdoc's future extends well beyond its own app. Resources: Oliver Kharraz on LinkedIn; Julie Yoo on X. a16z disclosures apply.</description>
-      <pubDate>Sun, 18 Oct 2026 01:03:09 +0000</pubDate>
-      <guid isPermaLink="false">a60e8933-ff87-4703-bfe7-b594d39bf445</guid>
-      <link>https://a16z.simplecast.com/episodes/why-ai-could-finally-fix-healthcare-access-zocdoc-ceo-oliver-kharraz-9n_zG60B</link>
-      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/60df6c4d-a29a-4c66-994e-bbd659a2e577/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=60df6c4d-a29a-4c66-994e-bbd659a2e577&amp;feed=JGE3yC0V" length="33536741" type="audio/mpeg"/>
-      <itunes:duration>00:34:56</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[20VC] $1BN ARR in 18 Months; The Untold Story of Higgsfield | Spending $4M Per Month on Models | Why Moats in AI are BS | Scaling a Content Team to 150 People with Alex Mashrabov [wildcard]</title>
-      <description>WHY YOU: The most concrete AI-app unit-economics numbers this month: a $1B run-rate in 18 months set against ~$4M a month in model spend (28:00), and a founder arguing moats and 'wrapper' worries are beside the point (36:00). Consumer video, not services — but the margin math transfers.
-
-Alex Mashrabov is the founder and CEO of Higgsfield, described as the third-fastest company to reach $1BN in ARR behind OpenAI and Anthropic, with reports of a new round at roughly $8BN. He previously sold his company to Snap for $166M and was a top-three competitive programmer as a child. Topics: 00:00 From programming prodigy to the $166M sale to Snap; 09:00 Burning through $10M and the pivot that saved Higgsfield; 12:00 Is the $1BN run-rate in 18 months real?; 16:00 Will OpenAI and Google wipe out $20 consumer AI subscriptions?; 21:00 Are AI labs gaming benchmarks?; 28:00 Spending roughly $4M a month on models — smart or reckless?; 36:00 Are AI moats overstated, and the 'wrapper' debate; 43:00 Time with his son and what ambition costs; 54:00 Quickfire: is Snap in trouble, can HubSpot survive AI; 01:02:00 The plan to reach $10BN in revenue within 12 months.</description>
-      <pubDate>Sun, 18 Oct 2026 01:03:09 +0000</pubDate>
-      <guid isPermaLink="false">83f96834-8b3f-469a-9ff3-998b6ef130f1</guid>
-      <link>https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov</link>
-      <enclosure url="https://traffic.libsyn.com/secure/thetwentyminutevc/Alex_Mashrabov__Higgsfield.mp3?dest-id=240976" length="66780366" type="audio/mpeg"/>
-      <itunes:duration>01:09:34</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[Understanding Healthcare with Zack Kanter] Agentic AI for the revenue cycle with Ayo Omojola at Substrate</title>
-      <description>WHY YOU: The clearest walk-through I found of how an AI-native RCM company actually operates: why Substrate dropped browser automation for agents, why payers still mail critical info, and big payers vs. the long tail. Host built Stedi, so he pushes on mechanics.
-
-Ayo Omojola is the co-founder and CEO of Substrate, an AI agent platform for revenue cycle automation. Before starting Substrate, Ayo saw the friction firsthand working in primary and urgent care. In this episode, Ayo explains why Substrate moved from browser automation to agentic AI, why there's so much friction in the revenue cycle, and how healthcare billing could be 5x faster and cheaper with current tools.</description>
-      <pubDate>Sat, 17 Oct 2026 21:52:47 +0000</pubDate>
-      <guid isPermaLink="false">228e8c0d-963e-419d-8d3a-991d3d21bd0a</guid>
-      <link>https://podcast.stedi.com/8</link>
-      <enclosure url="https://media.transistor.fm/16ddc532/14ef7fe9.mp3" length="50540252" type="audio/mpeg"/>
-      <itunes:duration>3156</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
