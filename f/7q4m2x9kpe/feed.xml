@@ -6,13 +6,48 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 16:04:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:18:24 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[The GTMnow Podcast] How Sierra Went From $0 to $400M ARR in 2.5 Years | Reggie Marable (Chief Customer Officer, Sierra)</title>
+      <description>WHY YOU: The Sierra side of the Legora-CRO episode you asked for more of: Sierra&#x27;s first sales hire (employee 23, ex-Salesforce/Slack) on how outcome-based pricing actually operates, charging only when the agent resolves a case with no human and nothing when it escalates or the customer calls back (6:14, 8:22); the selling motion of a demo, then a paid one-to-four-month proof of concept where a dedicated team builds the agent, tests it on simulated traffic and ramps live traffic from 5% while forward-deployed engineers stay on the account (17:07); how you track pipeline when revenue is per outcome (28:37); sales, product and engineering organised by industry, healthcare among them (20:55); the curve from zero long-term contracts at the February 2024 stealth exit to $20M in the launch year, then $100M to $200M in six months and $200M to $400M in five, with $150M added in Q3 alone (14:21, 22:45); and the Elite Eight, eight senior leaders hired first and asked to carry a quota again (32:28). Caveats: Zero sponsor read at 16:24, host is GTMfund-affiliated, no margin or contract-size figures.
+
+Sierra passed $400M in ARR, adding $150M in Q3 alone, after coming out of stealth in February 2024 with no long-term contracts. Reggie Marable, Chief Customer Officer and Sierra&#x27;s first sales hire, covers his move from Salesforce and Slack, his bet on founders Bret Taylor and Clay Bavor, outcome-based pricing (Sierra is paid when its AI agents resolve an issue), the paid proof-of-concept plus forward-deployed-engineering motion, building his first sales team, and advice for founders making their first sales hire. Chapters: 0:56 the $400M milestone; 2:28 joining as employee 23; 6:14 what Sierra does and how outcome-based pricing works; 8:22 why outcome pricing was a bold 2024 bet; 9:46 board cadence; 10:49 founder-to-first-sales-hire transition; 12:23 scaling selling past 1,200 employees; 13:06 Head of Sales to Chief Customer Officer; 14:21 pre-revenue to $20M in the launch year; 16:24 sponsor break; 17:07 paid POC and forward-deployed engineering; 19:59 scale, voice, innovation; 20:55 organising go-to-market by industry; 22:14 key industries and government; 22:45 growth curve from $100M to $200M to $400M; 26:09 what he looks for in sellers; 27:36 hiring by consensus; 28:37 tracking pipeline under outcome-based pricing; 30:21 enterprise AI selling, unlocks and mistakes; 32:28 the Elite Eight framework for first sales hires; 33:29 leadership lessons; 34:48 underrated GTM advice; 36:49 the future of customer-service jobs and AI architects.</description>
+      <pubDate>Mon, 16 Nov 2026 15:18:24 GMT</pubDate>
+      <guid isPermaLink="false">Buzzsprout-20108316</guid>
+      <link>https://www.buzzsprout.com/2090897/episodes/20108316-how-sierra-went-from-0-to-400m-arr-in-2-5-years-reggie-marable-chief-customer-officer-sierra</link>
+      <enclosure url="https://pscrb.fm/rss/p/https://mgln.ai/e/p23020/www.buzzsprout.com/2090897/episodes/20108316-how-sierra-went-from-0-to-400m-arr-in-2-5-years-reggie-marable-chief-customer-officer-sierra.mp3" length="28983847" type="audio/mpeg"/>
+      <itunes:duration>2411</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[42章经] 复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛 [中文]</title>
+      <description>WHY YOU: A Mandarin founder on the B2B-agent business he is actually running, with the candour you weighted up after Liblib: why AFFiNE, his open-source knowledge-base product, was popular but hard to monetise (01:49); how a To-B governing agent that learns and takes over enterprise workflows won its first large customers (18:29) and the shared context an enterprise has to supply before an agent can act for it (20:52); whether LangChain/Dify/n8n-style tooling is already obsolete (26:11); and how an application company that trains private models for its clients thinks about cost and operations (33:32). It also places AI-services pricing in the 2C-vs-2B agent split you keep seeing (05:43, 13:41). Caveats: no pricing or revenue figures in the notes, and the host is a VC; the operator content is the second half.
+
+42章经 host 曲凯 continues the show&#x27;s Personal Agent and RLaaS threads with 贺嘉琛, founder of Afk.surf, who applies personal-agent ideas to B2B and trains private models for enterprises. He left a deep-learning and astrophysics PhD in 2020 to start up, built AFFiNE (an open-source document collaboration and knowledge-base product), helped incubate VoidZero with 尤雨溪 (later acquired by Cloudflare), and now runs Afk.surf, a To-B governing agent meant to learn and take over enterprise workflows while aligning with an organisation&#x27;s business, working styles and preferences; the notes say it already has several large customers. Timestamps: 01:49 why AFFiNE was popular and why it was hard to commercialise; 05:43 from 2026 agents stop behaving like traditional software; 08:19 recent shifts in agent product forms; 09:50 review of personal-agent development; 10:43 2026 as the year of the most buzzwords; 13:41 whether To-C personal agents remain a platform opportunity and whether To-B is different; 18:29 how Afk won large customers; 20:52 the shared understanding enterprise collaboration needs; 26:11 whether LangChain, Dify and n8n are outdated; 33:32 how an app company that trains its own models thinks and operates; 40:02 whether AI could replace rule-based logic end to end; 42:34 whether the timing is right for AI games; 44:58 recruiting from the AFFiNE network.</description>
+      <pubDate>Mon, 16 Nov 2026 15:18:24 GMT</pubDate>
+      <guid isPermaLink="false">6af6678d14d01a26f8a916f6</guid>
+      <link>https://www.xiaoyuzhoufm.com/episode/6af6678d14d01a26f8a916f6</link>
+      <enclosure url="https://media.xyzcdn.net/648b0b641c48983391a63f98/ljFjTMoAfZYwI_agBwi1wZPgHCax.m4a" length="0" type="audio/mp4"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[The Heart of Healthcare] Big Changes Are Underway for Medicare | CMS Chief AI &amp; Technology Officer, Jacob Shiff [wildcard]</title>
+      <description>WHY YOU: The payer-side answer to who pays for AI in care delivery, from someone who used to sell into it: the CMS Innovation Center&#x27;s AI and technology lead co-founded Anomaly (the claims-accuracy startup) and worked at Flatiron before this job. He explains why fee-for-service rules make AI add billable services rather than remove cost, how the ACCESS model pays for measured improvement in patient health instead, what that changes for startups selling AI-enabled chronic-condition care, the CMS/FDA pathways being built for AI-delivered treatment (AI mental-health care included), and whether any of it survives a change of administration. Caveats: policy rather than operator numbers, Bessemer-hosted, 29 minutes, no timestamps; a wildcard because it is the reimbursement logic behind your buyers&#x27; budgets, not a GTM story.
+
+Steve Kraus talks with Jacob Shiff, Chief AI and Technology Officer at the CMS Innovation Center, about how Medicare&#x27;s payment policies could decide whether AI makes healthcare more or less expensive. They discuss why traditional payment models drive up the cost of new technology, how the ACCESS model pays for measurable improvements in patient health rather than additional billable services, what outcomes-based care would need to work at scale, what the model means for healthcare startups and for clinicians treating chronic conditions, how CMS and the FDA are creating pathways for AI-powered treatments including AI-delivered mental-health care, and whether these reforms can survive changes in administration. Before CMS, Jacob co-founded Anomaly (Series B, about $20M raised) and worked at Redesign Health, Flatiron Health and Google.</description>
+      <pubDate>Mon, 16 Nov 2026 15:18:24 GMT</pubDate>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/bPhYlClbEhUc3i2UrUz8KWDrEIOe2sTIAmSRPKs5C2k</guid>
+      <link>https://www.heartofhealthcarepodcast.com/</link>
+      <enclosure url="https://rss.art19.com/episodes/ea57eedb-db8d-42a3-b589-684e57015f2f.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386" length="28025417" type="audio/mpeg"/>
+      <itunes:duration>00:29:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[The a16z Show] How Enterprise AI Really Gets Deployed</title>
       <description>WHY YOU: The Sierra-peer founder interview held since the 11-09 run; the a16z feed finally came back readable. Decagon&#x27;s co-founders on the mechanics of getting AI customer-support, sales and operations agents live inside large enterprises: forward-deployed engineering as the deployment model and what of it stays, enterprise sales and rollout planning, latency/evaluation/fine-tuning as production constraints, and the margin lever of moving most inference to open-source models. A third-party summary of the episode (not the show notes) adds the points that make it worth your time: the CEO spending most of his time selling, Decagon&#x27;s glass-box positioning against Sierra&#x27;s FDE-heavy black box, and a customer going from a few support journeys a year on Sierra to several a month. Caveats: a16z-hosted (an investor), no pricing, ARR or margin figures in the notes, 3.5 months old, 80 minutes. Use it as the comparison point for how services-as-software companies scope a deployment and what they refuse to productize.
@@ -448,42 +483,6 @@ Neil Batlivala is co-founder and CEO of Pair Team, a provider organization offer
       <link>https://www.xiaoyuzhoufm.com/episode/6a6ac940981aef4c4aaf68a8</link>
       <enclosure url="https://media.xyzcdn.net/61933ace1b4320461e91fd55/liMPlSIgAg9Cp4BX7lha3JfZUOX3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>7740</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[The a16z Show] Why Real-World AI Is Harder Than the Benchmark | EliseAI's Mario Martone [wildcard]</title>
-      <description>WHY YOU: Short one: an operator running AI front-office agents for housing and healthcare on why production reliability (and the cost of a wrong answer on a patient or tenant call) is a different problem from benchmark scores. The operating reality behind every 'we do the work' front-office pitch you'll evaluate.
-
-Mario Martone of EliseAI explains why AI errors in housing and healthcare demand more reliability than benchmark scores suggest. He covers EliseAI's call volume, what breaks when agents meet real tenants and patients, and how the company combines different AI methods to get reliability in production.</description>
-      <pubDate>Mon, 19 Oct 2026 14:13:54 +0000</pubDate>
-      <guid isPermaLink="false">eef7a29a-1f29-4cd8-b32b-365e617a3f1b</guid>
-      <link>https://a16z.simplecast.com/episodes/why-real-world-ai-is-harder-than-the-benchmark-eliseais-mario-martone-SJLazqim</link>
-      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/85a52844-6698-4658-9957-0133eabffba6/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=85a52844-6698-4658-9957-0133eabffba6&amp;feed=JGE3yC0V" length="23449714" type="audio/mpeg"/>
-      <itunes:duration>00:24:25</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[Understanding Healthcare with Zack Kanter] Dental billing with Mike Huffaker at Planet DDS</title>
-      <description>WHY YOU: Dental is a preview of where practice-side RCM is heading: groups consolidating onto one stack, dental providers submitting medical claims, eligibility data so thin that practices still phone payers for estimates — and a CRO explaining why every health-tech company ends up in RCM (33:54). Kanter pushes on mechanics.
-
-Mike Huffaker is Chief Revenue Officer at Planet DDS, a cloud-based, AI-enabled practice management and imaging platform built for large dental groups, and host of The Dental Economist Show. He and Zack cover why dental groups are moving to a single tech stack, why more dental providers are submitting medical claims, why incomplete payer eligibility data still leaves practices calling insurers for cost estimates, and why dental claims still go out in end-of-day batches. Chapters: 00:00 Introduction; 00:24 What Planet DDS does; 01:37 What dental groups are switching away from; 04:32 What distinguishes software built for multi-location groups; 06:40 What happens when a DSO acquires a practice; 11:44 How DSO consolidation changed dental software; 18:58 What dental groups integrate with; 22:39 Why dental providers need to submit medical claims; 26:50 How medical claims differ from dental claims; 33:54 Why nearly every health tech company ends up in RCM; 39:01 Why estimating dental costs across payers is so hard; 45:00 Whether payers benefit from billing friction; 50:21 What Mike would change about dental RCM.</description>
-      <pubDate>Sun, 18 Oct 2026 01:03:09 +0000</pubDate>
-      <guid isPermaLink="false">382f8452-4ae7-48aa-b881-4e1c43579e0d</guid>
-      <link>https://podcast.stedi.com/10</link>
-      <enclosure url="https://media.transistor.fm/804d502c/103b86fa.mp3" length="50796338" type="audio/mpeg"/>
-      <itunes:duration>3172</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[Invest Like the Best] Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492]</title>
-      <description>WHY YOU: A vertical-AI CEO on moving from seat to outcome pricing (23:43) and how firms actually buy AI (22:00), with the enterprise-sales motion spelled out (32:55) — the finance analogue of Harvey/Legora, from the operator rather than an investor.
-
-Gabe Stengel is co-founder and CEO of Rogo, an AI platform for finance. He argues the best investors will spend the next several years reorganizing their firms around AI. The conversation covers how Rogo evolved alongside frontier models, why the last mile and the software harness around the models matter, what happens when every portfolio manager can run thousands of agents on a problem, how AI could change how capital is raised, how assets are priced and how deals get done, the move from seat-based to outcome-based pricing, which investing skills gain value as AI improves, Rogo's internal company brain (Shrek), the 40 investor rejections before the Series A, the aggressiveness applied AI requires, and how to become a magnet for talent and capital. Timestamps: 00:00:00 Welcome; 00:01:24 The model eras of Rogo; 00:04:15 The last mile; 00:06:14 Who uses Rogo today; 00:10:55 Which investor skills matter; 00:12:23 The data stack; 00:14:33 Competing with frontier labs; 00:16:57 The harness; 00:18:05 Who wins in vertical AI; 00:22:00 How firms buy AI; 00:23:43 From seats to outcome pricing; 00:31:19 Auditability vs. accuracy; 00:32:55 Enterprise sales; 00:34:48 Shrek; 00:35:49 The pitch to talent; 00:42:18 The Series A rejections; 00:47:41 Finance's innovator's dilemma; 00:50:22 Questions firms should ask; 00:53:09 What remains uncertain; 00:56:46 Becoming a talent black hole; 00:57:56 The kindest thing.</description>
-      <pubDate>Sun, 18 Oct 2026 01:03:09 +0000</pubDate>
-      <guid isPermaLink="false">ea3567a0-b511-11f1-b31a-f738f618d5f9</guid>
-      <link>https://colossus.com/episode/building-investing-superintelligence/</link>
-      <enclosure url="https://traffic.megaphone.fm/CLS7922860814.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>3864</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
