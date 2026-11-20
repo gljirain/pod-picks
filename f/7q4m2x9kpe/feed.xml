@@ -6,13 +6,37 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 15:29:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:00:34 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Lifers with Christina Farr] Inside the Complexity of U.S. Healthcare: Kumar Shwetabh of Access Healthcare</title>
+      <description>WHY YOU: The incumbent you compete with, in his own words: the Group President and Global COO of Access Healthcare, one of the big offshore RCM outsourcers, on where the money actually gets stuck. The claim path from coding to clearinghouse to payer and why providers wait weeks or months to be paid (7:03, 8:30), why clinical and financial systems still don&#x27;t talk (12:01), why AI agents built on incomplete data fall short (14:30), automating prior auth (16:30), payers and providers now blocking each other&#x27;s bots (19:40), the rise in denials and appeals and how to prevent them (22:15, 24:03), why payers don&#x27;t publish their rules (27:00), the case for gold carding (30:15), and the candid part for a BPO executive: which revenue-cycle jobs disappear and which stay (38:04, 44:15). Caveats: a journalist host rather than an operator, and no pricing or margin figures in the notes; 54 minutes, published Nov 18.
+
+Chrissy Farr talks with Kumar Shwetabh, Group President and Global COO of Access Healthcare, a veteran of more than two decades in US healthcare billing who founded Pacific BPO. They cover why providers wait weeks or months to get paid, how a claim moves from coding to clearinghouse to payer, and why AI agents built on incomplete data fall short. The conversation also covers automating prior authorization, payers and providers blocking each other&#x27;s bots, the growth in denials and appeals, the case for gold carding, and his view that the revenue cycle workforce will shrink. Timestamps: (0:00) Intro; (2:04) Meet Kumar; (3:54) First impressions of US healthcare; (5:56) Cash pay, concierge medicine, specialist bottleneck; (7:03) Why providers wait months to get paid; (8:30) How a claim works; (12:01) Clinical and financial sides don&#x27;t talk; (14:30) Can AI agents work on incomplete data; (16:30) Automating prior authorization; (19:40) Payers and providers blocking each other&#x27;s bots; (22:15) More denials and appeals; (24:03) Preventing denials; (27:00) Why payers don&#x27;t publish the rules; (30:15) The case for gold carding; (34:00) Why physicians avoid the revenue cycle; (38:04) AI and administrative jobs; (44:15) Which jobs stay; (46:15) Winners and losers in the AI era; (49:45) Would Kumar want his kids in this industry; (52:00) Wrap-up.</description>
+      <pubDate>Fri, 20 Nov 2026 15:00:34 GMT</pubDate>
+      <guid isPermaLink="false">0c0e133c-e2cf-11f1-973a-433ec0b99f4d</guid>
+      <link>https://www.podpage.com/secondopinion/</link>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/RINTP5211995896.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3219</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Practical AI in Healthcare] S2E1 - Raihan Faroqui, MD: The Doctor at the Front Desk, AI on the Line</title>
+      <description>WHY YOU: The closest thing found this run to the healthcare-AI GTM operator episode you asked for: Confido Health&#x27;s VP of Partnerships (an internist turned front-office seller) on putting AI voice agents on the phone lines of about 1,500 outpatient sites for scheduling, refills, insurance checks and billing questions, in twenty languages. What you learn: the economics of an unanswered call as the sales wedge, why the deployment motion looks more like consulting than software (no migration, but heavy configuration per practice), how they define and measure agent failure with the customer, and the disclosure question (the agents don&#x27;t tell patients they are AI). Hosts are two sceptical clinician-informaticists, not a vendor. Caveats: Sep 6 (about 11 weeks old), no pricing or contract numbers in the notes, a conference promo in the first minutes, and the show&#x27;s RSS was unreadable this run so the audio URL comes from the show&#x27;s Anchor host via a directory page.
+
+Raihan Faroqui trained in internal medicine, then moved into venture-backed startups and, as he puts it, to the front desk. As VP of Partnerships at Confido Health he puts AI agents on the phone lines of roughly 1,500 outpatient practice sites, handling appointments, refills, insurance checks and billing questions in twenty languages. His argument is that healthcare&#x27;s core problem has been a system-of-record problem rather than a software problem, and that agents are the first tool that does not require a migration. The episode covers the economics of an unanswered phone call, why the deployment model looks more like consulting than software, how the company defines and measures agent failure, and why these agents do not tell patients they are agents. Hosts: Steven Labkoff, MD and Leon Rozenblit.</description>
+      <pubDate>Fri, 20 Nov 2026 15:00:34 GMT</pubDate>
+      <guid isPermaLink="false">https://anchor.fm/s/1062c2d68/podcast/play/125261998/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2Fa2e6bfa3-37c2-e9a6-13c6-e70bf6d51276.mp3</guid>
+      <link>https://podcasters.spotify.com/pod/show/steven-labkoff/episodes/S2E1---Raihan-Faroqui--MD-The-Doctor-at-the-Front-Desk--AI-on-the-Line-e3od6ne</link>
+      <enclosure url="https://anchor.fm/s/1062c2d68/podcast/play/125261998/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2Fa2e6bfa3-37c2-e9a6-13c6-e70bf6d51276.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:49:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[AI to ROI] The AI Agent Outcome-Based Pricing Journey - with Kunal Agarwal, CFO Gorgias</title>
       <description>WHY YOU: The CFO&#x27;s view of per-outcome pricing, which is the piece the Sierra and Intercom episodes left out: Gorgias charges per AI resolution, so the finance side has to defend gross margins that run below classic SaaS, track LLM cost per interaction (third-party episode notes put inference at roughly 55 to 60% of the fully loaded cost of an AI interaction), decide what counts as a resolution versus a deflection, and work out attribution when a shopping agent influences a sale. It also covers why they re-architected the help desk around agents instead of bolting AI on, and how the pricing was iterated with customers. Caveats: May 2026, so near the six-month line; e-commerce support, not healthcare; 33 minutes; the host runs a SaaS benchmarking firm. Rough markers from third-party notes, not the show notes: why outcome pricing 12:10, pricing iteration 15:28, gross margin and inference cost 17:29, LLM share of COGS 23:13.
@@ -461,28 +485,6 @@ Town CEO Jean-Denis Grèze argues that AI transformed coding faster than everyda
       <link>https://a16z.simplecast.com/episodes/what-happens-when-al-agents-can-spend-your-money-PREiwaJH</link>
       <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c3d1e5f9-5c39-4faf-8b09-0939ca33695d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=c3d1e5f9-5c39-4faf-8b09-0939ca33695d&amp;feed=JGE3yC0V" length="60268992" type="audio/mpeg"/>
       <itunes:duration>01:02:46</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[十字路口Crossing] 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg [中文] [wildcard]</title>
-      <description>WHY YOU: Three pivots in nine months, told with what killed each one: a design agent dropped because the models ate it (04:59), a fully automated growth agent that did lots of work but produced no growth (17:36), and the 'zero-person company' assumption that didn't hold (06:59, 35:01). Ends on what agents actually pay for (18:04) and a Costco-style model for selling to agents (21:57). Adjacent to your core, but the most candid failure-and-pivot talk this week.
-
-本期嘉宾是 Treg 创始人 Jason Zhou 和创始工程师石天鑫。九个多月里他们经历了三次转向：从设计 Agent SuperDesign，到全自动增长 Agent，再到为 Agent 提供数据与工具的 Treg。聊到垂直 Agent 为什么处境艰难、「零人公司」为什么比看起来更难、AI 干了很多活为什么不等于增长、围绕 Coding Agent 长出来的产品（Ego、ChatCut），以及同时跑多个 Agent 时人反而成为瓶颈。章节：02:18 九个月三次转向：SuperDesign、增长 Agent、Treg；03:10 从周末项目到 6000+ GitHub stars；04:59 模型吃掉应用：为什么放弃 SuperDesign；06:59 「零人公司」浪潮是个错误假设；14:42 一个 Codex 插件意外改变了增长曲线；17:36 从增长 Agent 里抽出最有价值的一层；18:04 Agent 最常买什么工具；20:13 浏览器抓不到的数据是工具市场的价值；21:57 为什么 Treg 更像 Costco；23:39 应用公司的数据飞轮；25:38 三次转向的教训：建在 Claude Code 和 Codex 之上；26:43 Ego (lite) 与 ChatCut；31:56 从 Vibe Island 到 Orca：多 Agent 时代的机会；34:25 转向期两个月不做产品；35:01 「零人公司」为什么不成立；36:18 怎么做 Loop Engineering；38:50 同时跑 5–10 个 session，人成了瓶颈；40:13 Claude Code 还是 Codex；41:41 Grok Bot 与云端沙盒；43:22 国产模型、视频模型、快模型各自适合的场景；45:08 当程序员写不过 AI；47:15 三次转向中最想放弃的时刻；49:05 Fail fast；49:22 相信 AGI 会来为什么还要创业；50:28 即使有通用模型，仍然需要更好的工具。</description>
-      <pubDate>Wed, 21 Oct 2026 14:17:15 +0000</pubDate>
-      <guid isPermaLink="false">6ad2412d0e4e410a05be01a7</guid>
-      <link>https://www.xiaoyuzhoufm.com/episode/6ad2412d0e4e410a05be01a7</link>
-      <enclosure url="https://media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a" length="0" type="audio/mp4"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[GTM Science] How Abridge Built an AI-Powered Enterprise Sales Engine with Jeremy Von Halle</title>
-      <description>WHY YOU: How a $200M+ AI-healthcare company actually runs enterprise sales into ~300 health systems: a 200-person commercial org for 300 accounts (06:36), the save-time → save-money → make-money ROI arc on an 18-month cycle (09:33, 11:26), and centralized AI builds vs. rep-built tools (16:33). The GTM mechanics the Abridge CEO interviews skip.
-
-Host Eddie Reynolds talks with Jeremy Von Halle, VP of Revenue Operations and Chief of Staff to the Chief Commercial Officer at Abridge. Abridge grew from two sellers and under $5M ARR to over $200M in revenue selling into a market of about 300 large health systems. Jeremy walks through the AI-driven rev-ops engine behind that growth: prepping sellers before calls, routing insights from conversations, completing RFPs in under an hour, monitoring all 300 accounts for news, and scoring deal risk — plus Archie, Abridge's internal AI agent in Salesforce and Slack, an ROI framework for long sales cycles, and the case for centralized AI builds over rep-built tools. Timestamps: 00:23 Intro to Jeremy Von Halle and Abridge; 02:48 Why AI in enterprise sales is about depth, not breadth; 06:36 A 200-person commercial org selling into only 300 accounts; 09:33 Save time, save money, make money: the ROI arc; 11:26 When and how to prove ROI with an 18-month sales cycle; 15:39 The QA layer: flagging calls that don't meet the rubric; 16:33 Centralized AI build vs. reps vibe-coding their own solutions; 25:08 How many iterations before you get it right?; 28:19 The foundational data layer; 30:59 Capturing call transcripts and updating Salesforce; 32:10 Golden and rotten events: sentiment signals from interactions; 36:55 Archie: the AI agent embedded in Salesforce and Slack; 40:28 Daily news monitoring across all 300 accounts; 40:58 RFP completion from days to under an hour; 43:23 AI-powered forecast prep for frontline managers; 44:48 Deal risk scoring from conversational and stage-progression data.</description>
-      <pubDate>Mon, 19 Oct 2026 14:13:54 +0000</pubDate>
-      <guid isPermaLink="false">e57545e7-917d-4b9c-86cc-5525244bb134</guid>
-      <link>https://podcasters.spotify.com/pod/show/unionsquareconsulting/episodes/How-Abridge-Built-an-AI-Powered-Enterprise-Sales-Engine-with-Jeremy-Von-Halle-e3onb1f</link>
-      <enclosure url="https://anchor.fm/s/912e5b80/podcast/play/125594095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-11%2F431698611-44100-2-f4048bbf144df.mp3" length="49109367" type="audio/mpeg"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
