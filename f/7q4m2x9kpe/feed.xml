@@ -6,13 +6,36 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 15:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:00:38 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Lifers with Christina Farr] Systems of record vs. systems of action: the future of the EHR | Paul Brient, athenahealth</title>
+      <description>WHY YOU: The EHR incumbent&#x27;s product and operations chief on the system you sell into and around: why a closed EHR risks becoming a database under other companies&#x27; AI agents (14:10), why agents get blocked from booking care (17:21), what happens when the clinical and financial sides don&#x27;t talk (24:58), payers, zero-sum games and the revenue cycle (26:10), the Humana prior-authorization deal and what it changes (28:53), gold carding and provider report cards (32:02), and why athenahealth is exploring open-weight models (44:29). Caveats: journalist host, no pricing or margin figures in the notes; 58 minutes, published Nov 21.
+
+Chrissy Farr talks with Paul Brient, Chief Product and Operations Officer at athenahealth, about the AI-native EHR and why closed systems risk becoming a database underneath other companies&#x27; AI agents. They cover whether leadership cares more about billing or patient care, meaningful use and what AI changes about interoperability, why AI agents get blocked from booking healthcare, letting patients connect their records to Claude, when the clinical and financial sides don&#x27;t talk, payers and the revenue cycle, the Humana prior authorization deal, gold carding and provider report cards, open notes, why athenahealth is exploring open-weight models, and how engineering jobs are changing. Timestamps: (0:00) Intro; (1:37) Welcome Paul Brient; (2:44) athenahealth started as a chain of OB-GYN clinics; (4:08) Disruptor, incumbent, or leader?; (6:10) Who athenahealth serves today; (7:55) Does leadership care more about billing or patient care?; (9:56) Meaningful use, interoperability, and what AI changes; (13:07) Will AI cement faxes as healthcare&#x27;s interoperability?; (14:10) Systems of record vs. systems of action: the AI-native EHR; (17:21) Why AI agents get blocked from booking healthcare; (21:06) Letting patients connect their records to Claude; (22:43) What about care that happens outside athenahealth?; (24:58) When the clinical and financial sides don&#x27;t talk; (26:10) Payers, zero-sum games, and the revenue cycle; (28:53) The Humana prior authorization deal; (32:02) Gold carding and provider report cards; (35:12) Open notes and empowered patients; (39:03) Paul&#x27;s path: billing software at 15 and the first electronic claim in Florida; (42:38) What physician workflow will look like in 20 years; (44:29) Why athenahealth is exploring open-weight models; (47:10) The AI story: reimagining how healthcare software gets built; (49:36) 3,000 engineers on call and 1,000 ideas at Thrive; (52:00) How engineering jobs are changing; (54:26) Practical advice: learn to manage your agents; (56:34) Wrap-up.</description>
+      <pubDate>Mon, 23 Nov 2026 15:00:38 GMT</pubDate>
+      <guid isPermaLink="false">7467d286-e475-11f1-9d28-4f1dc3bd0667</guid>
+      <link>https://www.podpage.com/secondopinion/</link>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8746543600.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3486</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Day1Global生而全球] E78. AI 应用的四层模型：卖算力、卖能力、卖入口、卖结果 ft. EvoseAI Bingo [中文]</title>
+      <description>WHY YOU: A Mandarin framework for the pricing question you keep circling: an AI-agent founder back from 20 days inside US vertical-AI companies (legal, insurance, customer service) lays out four ways AI apps charge: selling compute, capability, an entry point, or outcomes (18:36), with the key observation that selling outcomes moves the spend from the IT budget to the labour budget (00:00), how vertical AI firms charge per point solution and why some are buying law firms (12:02), why the last 20% in production is the hard part (15:34), and why PMF cannot be outsourced to local sales hires when entering the US (51:00). Caveats: non-operator hosts and a framework rather than a P&amp;L; published mid-June, five months old; 64 minutes.
+
+Day1Global 主播 Star 和 Ruby 对谈 evose.ai 联合创始人 Bingo，他刚结束约 20 天的美国 AI / ToB 公司走访（Linkloud 加速器、SaaStr，以及 NVIDIA、Google、Foxit、Exa 和法律、保险、客服等垂直 AI 公司）。核心问题：AI 软件公司到底怎么赚钱。提出 AI 应用的四层商业模型：卖算力、卖能力、卖入口、卖结果；讨论美国创业公司切小能力与中国创始人包揽全企业需求的差异、中美 ToB 付费、资本市场和退出的差别、Agent 与 Agent 协作（一个营销 campaign 从四天压缩到一两个小时）、组织向 builder 和 reviewer 重组，以及中国 AI 公司进入美国市场的建议。时间线：00:00 精彩片段：卖结果让预算从 IT 预算转向人力预算；01:05 嘉宾介绍与 20 天硅谷 AI/ToB 之旅；03:42 硅谷走访：NVIDIA 与 Google 的反差，Foxit、Exa 与美国退出路径；12:02 垂直 AI 与资本杠杆：法律、保险、客服 AI 按单点能力收费，AI 公司收购律所；15:34 中美创始人的信息差，生产环境最后 20% 最难；18:36 四层模型：算力、能力、入口、结果；23:11 四层模型内的中美差异；30:39 从问答到干活：Evose 的 Agent 协作与通用大模型的区别；37:41 未来组织：builder 与 reviewer 取代部门和岗位；40:06 为什么 pivot 在硅谷是时髦词，Chief Storyteller；51:00 中国 AI 公司如何进入美国市场，PMF 不能外包给本地销售；59:51 一年后回看：infra 和结果层的泡沫，入口层的长期价值。</description>
+      <pubDate>Mon, 23 Nov 2026 15:00:38 GMT</pubDate>
+      <guid isPermaLink="false">6a2e95934233e62bc549a5f4</guid>
+      <link>https://www.xiaoyuzhoufm.com/episode/6a2e95934233e62bc549a5f4</link>
+      <enclosure url="https://media.xyzcdn.net/6406cdf48f863a217a2cd054/lmdwZYRP1SiF3A2_yqAl7RcQfrEf.m4a" length="0" type="audio/mp4"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Lifers with Christina Farr] Inside the Complexity of U.S. Healthcare: Kumar Shwetabh of Access Healthcare</title>
       <description>WHY YOU: The incumbent you compete with, in his own words: the Group President and Global COO of Access Healthcare, one of the big offshore RCM outsourcers, on where the money actually gets stuck. The claim path from coding to clearinghouse to payer and why providers wait weeks or months to be paid (7:03, 8:30), why clinical and financial systems still don&#x27;t talk (12:01), why AI agents built on incomplete data fall short (14:30), automating prior auth (16:30), payers and providers now blocking each other&#x27;s bots (19:40), the rise in denials and appeals and how to prevent them (22:15, 24:03), why payers don&#x27;t publish their rules (27:00), the case for gold carding (30:15), and the candid part for a BPO executive: which revenue-cycle jobs disappear and which stay (38:04, 44:15). Caveats: a journalist host rather than an operator, and no pricing or margin figures in the notes; 54 minutes, published Nov 18.
@@ -461,30 +484,6 @@ Reducto co-founder and CEO Adit Abraham joins a16z General Partner Jennifer Li t
       <link>https://a16z.simplecast.com/episodes/the-missing-infrastructure-for-ai-agents-documents-reductos-adit-abraham-Tf_0B_WM</link>
       <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9d496dca-083d-42c6-a9ba-c003aba257b9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=9d496dca-083d-42c6-a9ba-c003aba257b9&amp;feed=JGE3yC0V" length="36755018" type="audio/mpeg"/>
       <itunes:duration>00:38:17</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[Invest Like the Best] Christina Cacioppo - Building an Enduring Software Company in the Age of AI [EP.496]</title>
-      <description>WHY YOU: A CEO with 16,000+ customers on exactly the mechanics you track: why Vanta absorbs the AI inference cost instead of passing it through (07:39), the search for an outcome-pricing unit customers will sign (10:35), and why forward-deployed engineers are a problem rather than a GTM model (27:54). Agent-first product reasoning at 05:41. Disclosure: Vanta is also an Invest Like the Best sponsor — tell me if that should disqualify sponsor-guest episodes on strong-host shows.
-
-Patrick O'Shaughnessy talks with Christina Cacioppo, founder and CEO of Vanta, whose security and compliance platform serves more than 16,000 companies. Five years after their first conversation, they cover how Vanta won a crowded category, how a successful software business gets reinvented for AI, her bet on agents that do the work rather than assist users, the changing economics of software, the competition for top talent, AI's effect on cybersecurity, and building a lasting company in fast-moving Silicon Valley. Timestamps: 00:00:00 How Vanta Won a Crowded Category; 00:03:12 Living Through the Software Selloff; 00:05:41 Building an Agent-First Product; 00:07:39 Why Vanta Eats the Cost of AI; 00:10:35 The Search for Outcome Pricing; 00:14:31 Getting People to Actually Use AI; 00:17:46 Why Comp for Top People Is Up 10X; 00:22:13 Valuations, Tenders, and the Endgame; 00:24:20 What's Overhyped and Underhyped; 00:27:54 The Problem With FDEs; 00:29:34 Why French Startups Use Chinese Models; 00:30:22 Vanta as a Security Company; 00:36:57 What Makes a Great Talk; 00:40:14 Where She Would Invest Today; 00:45:19 The Billboard War; 00:49:35 The AI Trust Crisis; 00:51:39 Security Five Years From Now.</description>
-      <pubDate>Wed, 21 Oct 2026 14:17:15 +0000</pubDate>
-      <guid isPermaLink="false">5d4b6646-cc2c-11f1-b83e-6fbc19058151</guid>
-      <link>https://colossus.com/episode/becoming-a-category-winner/</link>
-      <enclosure url="https://traffic.megaphone.fm/CLS1049065818.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>3449</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[The a16z Show] What Happens When Al Agents Can Spend Your Money?</title>
-      <description>WHY YOU: Town started as an AI-powered tax service for small businesses — a services-as-software bet — and Jean-Denis Grèze explains why he walked away from it for a personal assistant that does the work across email, calendar and business workflows, and why model neutrality and owning the data matter once the labs compete with application companies. A pivot story from inside the services-as-software camp; the notes promise no pricing numbers, so take it for the strategy, with Rampell asking the business-model questions.
-
-Town CEO Jean-Denis Grèze argues that AI transformed coding faster than everyday work because the bottleneck is making AI usable for people who lack the time or technical skill to build their own automations, not raw intelligence. He and a16z General Partner Alex Rampell discuss Town's move from tax software to a personal AI assistant built around email, calendars and business workflows; why consumer-grade experiences may win in enterprise AI; how Town finds and automates tasks users would not think to delegate; why model neutrality and data ownership matter as AI labs increasingly compete with application companies; what happens when agents act on people's behalf in everyday work, shopping and commerce; and why software may need to adapt to each user rather than the reverse. Resources: Alex Rampell on X (x.com/arampell); Jean-Denis Grèze on X (x.com/jgreze); Town (town.com). a16z disclosures apply.</description>
-      <pubDate>Wed, 21 Oct 2026 14:17:15 +0000</pubDate>
-      <guid isPermaLink="false">21d29a94-5fb5-4136-83a9-771927d7cdb8</guid>
-      <link>https://a16z.simplecast.com/episodes/what-happens-when-al-agents-can-spend-your-money-PREiwaJH</link>
-      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c3d1e5f9-5c39-4faf-8b09-0939ca33695d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=c3d1e5f9-5c39-4faf-8b09-0939ca33695d&amp;feed=JGE3yC0V" length="60268992" type="audio/mpeg"/>
-      <itunes:duration>01:02:46</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
