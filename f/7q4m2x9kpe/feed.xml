@@ -6,13 +6,49 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 15:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:57:49 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Vanguards of Healthcare] Smarter Technologies&#x27; Blueprint for AI-Driven Revenue Cycle Management</title>
+      <description>WHY YOU: The CEO of the company that merged SmarterDx, Thoughtful AI and Access Healthcare into one AI-plus-BPO revenue-cycle operator — the “AI-native incumbent” you compete against and get compared to — on how he splits revenue cycle into two problems (producing an accurate claim, then the many steps to actually get paid), where AI works as a first pass under human supervision and where it does not, how better RCM workflow shows up in a hospital&#x27;s thin operating margin, and why a PE firm (New Mountain) assembled the company this way. Caveats: January 2026 (10 months old; classic slot), Bloomberg Intelligence analyst host rather than an operator host, no pricing figures in the notes; 53 minutes.
+
+Dr. Michael Gao, CEO of Smarter Technologies (formerly co-founder and CEO of SmarterDx), joins Bloomberg Intelligence healthcare analyst Jonathan Palmer to discuss how AI is changing hospital revenue cycle management. He frames revenue cycle as two problems: producing an accurate charge record, then the many steps needed to get paid. They cover Smarter&#x27;s approach to clinical intelligence and automation, why AI works best as a first pass with human supervision, how smarter RCM workflows can lift margins for hospitals operating on very thin economics, Smarter&#x27;s formation by New Mountain Capital from three predecessor companies, and Gao&#x27;s mission to reduce the trillion-dollar burden of health care administration.</description>
+      <pubDate>Wed, 25 Nov 2026 14:57:49 GMT</pubDate>
+      <guid isPermaLink="false">f01be765-43f5-4f3f-994b-b3d201646db9</guid>
+      <link>https://omny.fm/shows/vanguards-of-health-care-by-bloomberg-intelligence/smarter-technologies-blueprint-for-ai-driven-revenue-cycle-management</link>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e84b5664-cb23-4db9-82d5-afc500f233b6/f01be765-43f5-4f3f-994b-b3d201646db9/audio.mp3?utm_source=Podcast&amp;in_playlist=4ffd7fed-d7ec-4c28-891b-afc500f2c24a" length="50561359" type="audio/mpeg"/>
+      <itunes:duration>3158</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Vanguards of Healthcare] Innovaccer&#x27;s Bet on the Data Layer Powering Autonomous Healthcare</title>
+      <description>WHY YOU: A scaled healthcare-AI vendor&#x27;s CEO (Abhinav Shashank) on the business-model question behind “autonomous healthcare”: why he thinks the data layer, not the model, decides whether AI can take administrative waste out of a health system, how a company covering ~80 million patient lives thinks about getting to $1B ARR, and his own warning about what badly designed automation does inside a provider organisation. Caveats: Aug 13 (3.5 months), analyst host, no pricing mechanics in the notes; 50 minutes.
+
+Innovaccer co-founder and CEO Abhinav Shashank joins Bloomberg Intelligence analyst Jonathan Palmer. He argues that fixing healthcare&#x27;s fragmented data is the foundation for AI, and that “autonomous healthcare” could cut administrative waste. The company now covers about 80 million patient lives and is targeting $1 billion in annual recurring revenue. The conversation also covers the risks of poorly designed automation in healthcare.</description>
+      <pubDate>Wed, 25 Nov 2026 14:57:49 GMT</pubDate>
+      <guid isPermaLink="false">77114cc9-066e-40ca-8d1a-b4a500c71101</guid>
+      <link>https://omny.fm/shows/vanguards-of-health-care-by-bloomberg-intelligence/innovaccer-s-bet-on-the-data-layer-powering-autonomous-healthcare</link>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e84b5664-cb23-4db9-82d5-afc500f233b6/77114cc9-066e-40ca-8d1a-b4a500c71101/audio.mp3?utm_source=Podcast&amp;in_playlist=4ffd7fed-d7ec-4c28-891b-afc500f2c24a" length="48377934" type="audio/mpeg"/>
+      <itunes:duration>3021</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Lifers with Christina Farr] Health plans landed on the CEO&#x27;s desk | Owen Tripp, Included Health [wildcard]</title>
+      <description>WHY YOU: The payer side of the AI-coding arms race you work inside: Included Health&#x27;s CEO on the Blue Cross Blue Shield Association finding that AI-assisted coding is driving a claims-cost spike (41:40), the utilization backlash insurers are preparing (45:12) and the tools employers are reaching for (47:25) — plus why health-plan decisions moved from benefits teams to CFOs who want predictable pricing (24:14), and his claim that providers care more about getting paid fast than about a carrier&#x27;s brand. Wildcard: most of the hour is health-plan strategy; journalist host; 59 minutes, published Nov 24.
+
+Christina Farr talks with Owen Tripp, co-founder and CEO of Included Health, about the company&#x27;s move into health plans after acquiring Firefly Health, and why large employers may finally be ready to leave the big carriers. Tripp argues health-plan decisions have shifted from benefits teams to CFOs and CEOs, that providers care more about getting paid quickly than about a carrier&#x27;s brand, and discusses the Blue Cross Blue Shield Association report on AI-assisted coding and what insurers may do next. Timestamps: (01:21) Meet Owen Tripp; (02:30) Why buy Firefly; (05:10) Two plan models; (08:33) Digital health evolution; (11:42) Member-first strategy; (16:22) Mistrust in health plans; (18:51) Employers ready to switch; (24:14) CFO predictable pricing; (31:15) Defined contribution limits; (35:57) Network access myth; (41:40) Blues AI cost spike; (45:12) AI utilization backlash; (47:25) Employer response tools; (50:47) Staying in the fight.</description>
+      <pubDate>Wed, 25 Nov 2026 14:57:49 GMT</pubDate>
+      <guid isPermaLink="false">6089eee4-e70d-11f1-a89d-eb24c91061f5</guid>
+      <link>https://www.podpage.com/secondopinion/</link>
+      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/RINTP2614397170.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>3525</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Lifers with Christina Farr] Systems of record vs. systems of action: the future of the EHR | Paul Brient, athenahealth</title>
       <description>WHY YOU: The EHR incumbent&#x27;s product and operations chief on the system you sell into and around: why a closed EHR risks becoming a database under other companies&#x27; AI agents (14:10), why agents get blocked from booking care (17:21), what happens when the clinical and financial sides don&#x27;t talk (24:58), payers, zero-sum games and the revenue cycle (26:10), the Humana prior-authorization deal and what it changes (28:53), gold carding and provider report cards (32:02), and why athenahealth is exploring open-weight models (44:29). Caveats: journalist host, no pricing or margin figures in the notes; 58 minutes, published Nov 21.
@@ -448,42 +484,6 @@ Christina Farr talks with Munjal Shah, co-founder and CEO of Hippocratic AI, abo
       <guid isPermaLink="false">6accc5de195d838e2af0bd9a</guid>
       <link>https://www.xiaoyuzhoufm.com/episode/6accc5de195d838e2af0bd9a</link>
       <enclosure url="https://media.xyzcdn.net/648b0b641c48983391a63f98/lkR2rf-l-fT_P_I6f-TaY5vLNT6e.m4a" length="0" type="audio/mp4"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[The Heart of Healthcare] From Early Struggles to Billion+ Exit | SmarterDx Founders Michael Gao &amp; Joshua Geleris</title>
-      <description>WHY YOU: The founders of the largest AI-coding exit in healthcare on the part that matters to you: 18 months without a customer, the pre-bill review workflow that made contingency (share-of-recovered-revenue) pricing possible, AI translating clinical notes into billing codes now beating the average human coder, and why they'd pick a flywheel over a 'moat'. Short, but it is the economics behind every contingency-priced AI RCM pitch. Host Steve Kraus is a Bessemer partner and Bessemer backed SmarterDx; flag it if you'd rather exclude investor-host episodes.
-
-Building a healthcare startup is harder than most people acknowledge. SmarterDx, now one of the largest health AI exits to date, went about 18 months without a customer, pursued a pivot that seemed to make little product sense, and saw its co-founders return to hospitalist shifts to cover expenses. Host Steve Kraus talks with CEO Dr. Michael Gao and Head of Product Dr. Joshua Geleris about those struggles, what finally drove growth, and the billion-plus acquisition by New Mountain Capital. Topics: why the first product idea failed and what customer objections taught them; the workflow that made contingency pricing possible; how AI translating clinical notes into billing codes now outperforms the average human, and what that means for coders and nurses; why a flywheel is a better model than a moat; and what they would change about the acquisition process. Gao was previously Medical Director for Transformation at NewYork-Presbyterian and holds faculty roles at Icahn School of Medicine at Mount Sinai and Weill Cornell Medicine; Geleris was an Assistant Professor of Medicine at Columbia University, where NIH and DoD funded his clinical informatics work, and led Epic implementation for providers. Episode 245.</description>
-      <pubDate>Fri, 23 Oct 2026 14:13:58 +0000</pubDate>
-      <guid isPermaLink="false">gid://art19-episode-locator/V0/b33kV3Q53z3PpTeu4FdQLLOJamFYngzSrqOPaq0aPIw</guid>
-      <link>https://www.heartofhealthcarepodcast.com/episodes</link>
-      <enclosure url="https://rss.art19.com/episodes/6daed5b8-a57c-4c16-ae7b-82fc61a19dbc.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386" length="34021041" type="audio/mpeg"/>
-      <itunes:duration>00:35:26</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[Training Data] Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion</title>
-      <description>WHY YOU: A public-company CEO on the margin question under every AI-services business: lab token subsidies can't last, so who absorbs the cost when they end, and why he thinks a model-agnostic application layer that routes tokens keeps the customer relationship (06:56 will the labs move up the stack; 12:34 betting the company on AI; 48:00 why coding diffused fast and other knowledge work hasn't). Diffusion, not model quality, as the gating constraint on enterprise AI revenue.
-
-Aaron Levie, cofounder and CEO of Box, describes transforming a public company around AI and building an application-layer agent harness tuned to Box's file system, permissions, and search. He argues that lab token subsidies cannot last and that enterprises benefit from a model-agnostic company routing their tokens, and explains why coding adopted AI faster than other knowledge work. Timestamps: 0:00 Introduction; 1:55 Are application companies the hottest neolabs?; 6:56 Will the labs move up the stack?; 12:34 Box and betting the company on AI; 16:50 Hero use cases; 18:42 Work slop; 24:08 Building Box's agentic harness and the evals that matter; 27:23 The state of the model race; 29:25 Open-weight model adoption in the enterprise; 32:34 Memory, continual learning, and what belongs in the weights; 37:29 Box Labs and systems of record; 44:55 Will chat be the dominant UI?; 48:00 Why coding diffused fast; 54:31 Staying wired in and making a company AI-first. Hosted by Sequoia Capital.</description>
-      <pubDate>Fri, 23 Oct 2026 14:13:58 +0000</pubDate>
-      <guid isPermaLink="false">d2e9aa74-b080-11f1-8007-f31e2b6b4e53</guid>
-      <link>https://sequoiacap.com/podcast/box-s-aaron-levie-on-reinventing-yourself-in-the-ai-age-and-enterprise-diffusion</link>
-      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI7737498941.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>3921</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[The a16z Show] The Missing Infrastructure for AI Agents: Documents | Reducto's Adit Abraham [wildcard]</title>
-      <description>WHY YOU: Every prior-auth, claims and denials agent you evaluate is downstream of this problem: messy faxes, scans and PDFs. Reducto's CEO (billions of pages a month; the seven-billionth landed the morning of recording) explains why OCR fails, why frontier models silently drop fields on long extraction jobs, and how a vision-model-plus-infrastructure layer is sold into healthcare, insurance, legal and finance. Infrastructure, not an operator story, hence the wildcard tag.
-
-Reducto co-founder and CEO Adit Abraham joins a16z General Partner Jennifer Li to argue that document understanding is a missing layer for AI agents in healthcare, legal, finance, and insurance. They discuss why traditional OCR struggles with messy documents, how Reducto pairs vision-language models with specialized infrastructure, and why frontier models can silently drop information on long extraction tasks. Reducto processes billions of pages monthly and reached its seven billionth page the morning of the recording. a16z disclosures apply.</description>
-      <pubDate>Fri, 23 Oct 2026 14:13:58 +0000</pubDate>
-      <guid isPermaLink="false">6cedfc66-45d4-4e69-9b1c-9ae2db71f875</guid>
-      <link>https://a16z.simplecast.com/episodes/the-missing-infrastructure-for-ai-agents-documents-reductos-adit-abraham-Tf_0B_WM</link>
-      <enclosure url="https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9d496dca-083d-42c6-a9ba-c003aba257b9/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=9d496dca-083d-42c6-a9ba-c003aba257b9&amp;feed=JGE3yC0V" length="36755018" type="audio/mpeg"/>
-      <itunes:duration>00:38:17</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
