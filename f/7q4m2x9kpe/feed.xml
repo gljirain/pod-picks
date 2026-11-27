@@ -6,13 +6,37 @@
     <atom:link href="https://gljirain.github.io/pod-picks/f/7q4m2x9kpe/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>AI-curated episodes on AI in healthcare operations and AI-services business models.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 14:57:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:00:45 GMT</lastBuildDate>
     <itunes:author>Podcast Curator</itunes:author>
     <itunes:owner><itunes:name>Podcast Curator</itunes:name></itunes:owner>
     <itunes:image href="https://gljirain.github.io/pod-picks/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Vanguards of Healthcare] Abridge Moving AI From Scribing to Clinical Workflows</title>
+      <description>WHY YOU: Abridge&#x27;s co-founder/CTO (Zack Lipton) on the thesis every AI-RCM and EHR vendor you watch is now copying: that the scribe is a wedge, not the product, and that the money is in one platform that steers documentation, billing/coding and care decisions in real time at the point of care — which is exactly the layer that decides whether a stand-alone billing or coding vendor keeps its seat. Also how a research-heavy team turned that into the category leader. Caveats: March 2026 (8 months old; classic slot), Bloomberg Intelligence analyst host, no pricing or contract figures in the notes; 52 minutes.
+
+Abridge co-founder and CTO Zack Lipton joins Bloomberg Intelligence healthcare analyst Jonathan Palmer to discuss how the company grew from a research-heavy idea into a leader in health care AI. He argues that point solutions are limited and that the future is a unified platform that guides documentation, billing and care decisions in real time at the point of care — not just a better digital scribe.</description>
+      <pubDate>Fri, 27 Nov 2026 15:00:45 GMT</pubDate>
+      <guid isPermaLink="false">96ac67ac-6c57-44dc-bf8d-b41701255070</guid>
+      <link>https://omny.fm/shows/vanguards-of-health-care-by-bloomberg-intelligence/abridge-moving-ai-from-scribing-to-clinical-workflows</link>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e84b5664-cb23-4db9-82d5-afc500f233b6/96ac67ac-6c57-44dc-bf8d-b41701255070/audio.mp3?utm_source=Podcast&amp;in_playlist=4ffd7fed-d7ec-4c28-891b-afc500f2c24a" length="49698254" type="audio/mpeg"/>
+      <itunes:duration>3104</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>[Vanguards of Healthcare] Athenahealth&#x27;s Strategic Reset, Push for Speed in Ambulatory Care</title>
+      <description>WHY YOU: The CEO of the EHR+RCM incumbent that most of your practices run on (Bob Segert) on the business decisions behind it: cutting the weak bets to focus on ambulatory care and a single cloud platform (athenaOne), the open-platform strategy that decides which third-party AI billing/front-office tools get in, the AI push, and physician economics — i.e. what an EHR vendor thinks it is selling to a practice and what it will let others sell alongside it. Pairs with the Paul Brient (athenahealth CPO/COO) episode from Nov 21. Caveats: April 2026 (8 months old; classic slot), analyst host, no pricing mechanics in the notes; second item from this show in the batch because nothing else cleared the bar; 51 minutes.
+
+Bob Segert, CEO of Athenahealth, joins Bloomberg Intelligence healthcare analyst Jonathan Palmer to describe the company&#x27;s strategic reset — cutting weaker bets and focusing on ambulatory care and the cloud-native athenaOne platform — along with its AI push, an open-platform strategy, and physician economics.</description>
+      <pubDate>Fri, 27 Nov 2026 15:00:45 GMT</pubDate>
+      <guid isPermaLink="false">3569cad9-20c7-47d3-93f7-b42000c80d1e</guid>
+      <link>https://omny.fm/shows/vanguards-of-health-care-by-bloomberg-intelligence/athenahealths-strategic-reset-push-for-speed-in-ambulatory-care</link>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e84b5664-cb23-4db9-82d5-afc500f233b6/3569cad9-20c7-47d3-93f7-b42000c80d1e/audio.mp3?utm_source=Podcast&amp;in_playlist=4ffd7fed-d7ec-4c28-891b-afc500f2c24a" length="49175817" type="audio/mpeg"/>
+      <itunes:duration>3071</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>[Vanguards of Healthcare] Smarter Technologies&#x27; Blueprint for AI-Driven Revenue Cycle Management</title>
       <description>WHY YOU: The CEO of the company that merged SmarterDx, Thoughtful AI and Access Healthcare into one AI-plus-BPO revenue-cycle operator — the “AI-native incumbent” you compete against and get compared to — on how he splits revenue cycle into two problems (producing an accurate claim, then the many steps to actually get paid), where AI works as a first pass under human supervision and where it does not, how better RCM workflow shows up in a hospital&#x27;s thin operating margin, and why a PE firm (New Mountain) assembled the company this way. Caveats: January 2026 (10 months old; classic slot), Bloomberg Intelligence analyst host rather than an operator host, no pricing figures in the notes; 53 minutes.
@@ -461,29 +485,6 @@ Christina Farr talks with Aaron Miri, executive VP and chief digital and innovat
       <link>https://www.podpage.com/secondopinion/</link>
       <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/RINTP1775612793.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>3276</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[Lifers with Christina Farr] Healthcare AI works best on jobs no one thought to do | Hippocratic AI CEO Munjal Shah</title>
-      <description>WHY YOU: A founder selling AI agents into health systems explains his actual price (per-minute, at 31:53), the ROI cases he closes with (three cancers found for $1,700 of AI cost in a screening-outreach run; 50,000 heat-wave calls), his traction numbers (26:41) and the copilot/autopilot/'infinite pilot' framing for which jobs AI should own outright. Pricing mechanics for selling labor-replacing AI to hospitals.
-
-Christina Farr talks with Munjal Shah, co-founder and CEO of Hippocratic AI, about whether clinical AI will shrink healthcare's workforce and who is responsible when it errs. Shah lays out his Copilot, Autopilot and Infinite Pilot framework and argues the best results come from tasks healthcare never tried, such as calling 50,000 people during a New York heat wave; he also cites a lung cancer screening outreach that found three cancers for $1,700 in AI costs. Timestamps: 00:00 Lead-in; 00:42 Intro; 01:51 AI extinction-panic weekend; 04:47 Healthcare as an AI risk target; 06:56 Hippocratic's safety system; 09:20 Avoiding the AI-doctor trap; 12:34 Sponsor: Granola; 13:33 Liability and taking responsibility; 16:08 Redundancy and the clinical team; 18:30 Whether AI will shrink healthcare jobs; 20:38 Infinite Pilot ROI examples; 26:41 Business traction and growth metrics; 31:53 Per-minute pricing; 34:36 Fixing AI PR with specifics; 40:06 Wrap. Episode sponsor: Granola (meeting notes).</description>
-      <pubDate>Mon, 26 Oct 2026 14:14:12 +0000</pubDate>
-      <guid isPermaLink="false">220b5808-b236-11f1-8b80-0b780ff8184d</guid>
-      <link>https://www.podpage.com/secondopinion/</link>
-      <enclosure url="https://pscrb.fm/rss/p/traffic.megaphone.fm/RINTP8019878274.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>2510</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>[42章经] 一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓 [中文] [wildcard]</title>
-      <description>WHY YOU: An operator who ran Plaud's China business and a large-revenue company before founding a personal-agent startup, on whether agent cost is really the obstacle (10:07), how much real demand exists (11:39), why needs tied to money or status are easier to sell because the ROI is legible (14:45), why AI-coworker adoption is slower than expected (17:06), and how to make money from businesses that don't look promising (47:28). Consumer-side, hence the wildcard tag, but the demand/ROI reasoning transfers.
-
-42章经主播曲凯对谈 Ambi 创始人莫子皓（前 Plaud 合伙人及中国区 CEO，米公益创始人（后被轻松筹收购），曾任暖哇科技、百川智能医疗业务产品与运营负责人）。上半部分聊 Personal Agent：01:49 为什么 Personal Agent 现在火了；05:58 去年'智能已经够用'的假设可能错了；10:07 成本是不是真障碍；11:39 真实需求有多少；14:45 和钱、地位绑定的需求更好做，ROI 清楚；17:06 为什么 AI 同事的落地比预期慢；18:34 转向 B 端是不是过度模仿硅谷；19:18 大厂会不会赢；21:10 Personal Agent 是否天然缺乏网络效应；24:16 快评 Town、Grok Bot、Muse、Instinct；32:31 Ambi 如何与 Muse 之类竞争；40:25 应用公司自己训模型。下半部分聊经营与心法：42:49 经营过大营收业务、模型公司和消费硬件公司的核心体会；47:28 不被看好的生意如何赚钱；50:31 生意的本质；57:01 什么人会招人；1:03:04 最大的焦虑是速度；1:04:56 硬件的优势从哪来；1:08:57 这一波最大的机会；1:11:51 '主动式'产品设计的常见错误；1:18:36 亿级用户产品的时机到了吗；1:21:08 为什么中国 AI 产品跑出来的少。</description>
-      <pubDate>Mon, 26 Oct 2026 14:14:12 +0000</pubDate>
-      <guid isPermaLink="false">6accc5de195d838e2af0bd9a</guid>
-      <link>https://www.xiaoyuzhoufm.com/episode/6accc5de195d838e2af0bd9a</link>
-      <enclosure url="https://media.xyzcdn.net/648b0b641c48983391a63f98/lkR2rf-l-fT_P_I6f-TaY5vLNT6e.m4a" length="0" type="audio/mp4"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
